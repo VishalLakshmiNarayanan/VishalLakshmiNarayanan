@@ -207,5 +207,38 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 </div>
 
 ---
+---
 
+<!-- ============================================================= -->
+<!-- GITHUB STATS -->
+<!-- ============================================================= -->
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VishalLakshmiNarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalLakshmiNarayanan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
