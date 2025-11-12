@@ -153,8 +153,6 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 </div>
 
----
-
 <!-- ============================================================= -->
 <!-- FEATURED PROJECTS -->
 <!-- ============================================================= -->
@@ -229,6 +227,9 @@ Automated email and scheduling via Gmail, Calendar, and Sheets with contact veri
 - Google APIs
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### PhishGuard
@@ -242,15 +243,19 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 - VirusTotal API
 
 </td>
+<td width="50%" valign="top">
+
+<!-- Empty cell for symmetry, or add another project here -->
+
+</td>
 </tr>
 </table>
 
 </div>
 
 ---
----
 
----
+
 
 <!-- ============================================================= -->
 <!-- GITHUB STATS -->
