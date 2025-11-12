@@ -24,13 +24,13 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- 🧠 LANGUAGES & TOOLS BOXED SECTIONS -->
 <!-- ============================================================= -->
-<h2 align="center">🧠 Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div align="center">
 
 <!-- ================== Data Science & ML ================== -->
 <div style="background:#1e1e1e;border-radius:15px;padding:15px 25px;margin:10px;width:fit-content;">
-  <h3 align="center">📊 Data Science & Machine Learning</h3>
+  <h3 align="center">Data Science & Machine Learning</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="45"/>
     <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/></a>
@@ -43,7 +43,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ================== Data Engineering ================== -->
 <div style="background:#1e1e1e;border-radius:15px;padding:15px 25px;margin:10px;width:fit-content;">
-  <h3 align="center">🏗️ Data Engineering & Infrastructure</h3>
+  <h3 align="center">Data Engineering & Infrastructure</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker" height="45"/>
     <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40"/></a>
@@ -72,7 +72,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ================== Web Dev ================== -->
 <div style="background:#1e1e1e;border-radius:15px;padding:15px 25px;margin:10px;width:fit-content;">
-  <h3 align="center">🌐 Web Development</h3>
+  <h3 align="center">Web Development</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,vercel,gcp" height="45"/>
   </p>
@@ -80,7 +80,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ================== Additional ================== -->
 <div style="background:#1e1e1e;border-radius:15px;padding:15px 25px;margin:10px;width:fit-content;">
-  <h3 align="center">⚙️ Additional Proficiencies</h3>
+  <h3 align="center">Additional Proficiencies</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux" height="45"/>
     <a href="https://n8n.io/"><img src="./n8n.png" height="45" style="background:white;border-radius:8px;padding:3px;"/></a>
