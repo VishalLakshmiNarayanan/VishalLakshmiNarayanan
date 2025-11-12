@@ -69,7 +69,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <div align="center">
   <img height="180em" src="https://github-readme-stats-theta-eosin-94.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-theta-eosin-94.vercel.app/api/top-langs/?username=vishallakshminarayanan&layout=compact&theme=radical&langs_count=8" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=vishallakshminarayanan&theme=radical&date_format=j%20M%5B%20Y%5D" />
+ <img height="180em" src="https://streak-stats.demolab.com?user=vishallakshminarayanan&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 
