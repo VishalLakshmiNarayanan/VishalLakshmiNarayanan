@@ -1,8 +1,8 @@
-<!-- ============================================================= -->
+ <!-- ============================================================= -->
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
-<h1 align="center">👋 Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
-<h3 align="center">🚀 Data Science Enthusiast | AI Systems Builder | Full-Stack Engineer</h3>
+<h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
+<h3 align="center">Data Science Enthusiast | AI Systems Builder | Full-Stack Engineer</h3>
 <p align="center">
 I love turning complex problems into simple, intelligent solutions.<br/>
 Exploring how AI, analytics, and real-world data can work together to drive innovation and make technology more human.
@@ -13,10 +13,9 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- 🌐 CONNECT -->
 <!-- ============================================================= -->
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@lvishal1607" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/lvleetcode/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/></a>
 </p>
 
@@ -25,13 +24,13 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- 🧠 LANGUAGES & TOOLS BOXED SECTIONS -->
 <!-- ============================================================= -->
-<h2 align="center">🧠 Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div align="center">
 
 <!-- ===================== Data Science ===================== -->
 <div style="background:#1E1E1E;padding:15px;margin:10px;border-radius:15px;width:90%;">
-<h3>📊 Data Science & Machine Learning</h3>
+<h3>Data Science & Machine Learning</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="45"/>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/></a>
@@ -44,7 +43,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ===================== Data Engineering ===================== -->
 <div style="background:#1E1E1E;padding:15px;margin:10px;border-radius:15px;width:90%;">
-<h3>🏗️ Data Engineering & Infrastructure</h3>
+<h3>Data Engineering & Infrastructure</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker" height="45"/>
   <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40"/></a>
@@ -58,7 +57,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ===================== Data Analytics ===================== -->
 <div style="background:#1E1E1E;padding:15px;margin:10px;border-radius:15px;width:90%;">
-<h3>📈 Data Analytics & Visualization</h3>
+<h3>Data Analytics & Visualization</h3>
 <p align="center">
   <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/></a>
@@ -81,7 +80,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <!-- ===================== Additional Tools ===================== -->
 <div style="background:#1E1E1E;padding:15px;margin:10px;border-radius:15px;width:90%;">
-<h3>⚙️ Additional Proficiencies</h3>
+<h3>Additional Proficiencies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux" height="45"/>
   <a href="https://n8n.io/"><img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" height="40" style="background:white;border-radius:8px;padding:3px;"/></a>
@@ -96,7 +95,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- 📈 GITHUB STATS -->
 <!-- ============================================================= -->
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&theme=dark&show_icons=true&hide_border=false&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishallakshminarayanan&theme=dark&hide_border=false" width="48%"/>
@@ -108,13 +107,10 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- ⚡ ACTIVITY GRAPH -->
 <!-- ============================================================= -->
-<h2 align="center">⚡ Recent Activity</h2>
+<h2 align="center">Recent Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishallakshminarayanan&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
 
-<p align="center">
-<i>✨ Thanks for stopping by — Let’s build something extraordinary!</i>
-</p>
