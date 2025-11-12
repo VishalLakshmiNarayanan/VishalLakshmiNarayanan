@@ -113,11 +113,11 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Tail Risk Management
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/tailrisk-management)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 
 Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (LaR) and Conditional Value-at-Risk (CVaR) on 69K+ records
 
@@ -128,10 +128,9 @@ Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (
 - Scikit-learn
 - Pandas & NumPy
 - Matplotlib
+
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Career Pulse
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/career-pulse)
