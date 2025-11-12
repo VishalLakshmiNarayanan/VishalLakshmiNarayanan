@@ -65,7 +65,10 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
   <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/></a>
   <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="40"/></a>
-  <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/IBM_logo.svg" height="55" style="background:white;border-radius:8px;padding:3px;"/></a>
+  <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM ILOG CPLEX Optimization Studio" height="50" style="background:white;border-radius:8px;padding:4px;"/>
+</a>
+</a>
   <a href="https://d3js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="40"/></a>
 </p>
 </div>
@@ -83,7 +86,9 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <h3>Additional Proficiencies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux" height="45"/>
-  <a href="https://n8n.io/"><img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" height="40" style="background:white;border-radius:8px;padding:3px;"/></a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/N8n-logo-new.svg" alt="n8n Workflows" height="45" style="background:white;border-radius:8px;padding:3px;"/>
+</a>
   <a href="https://en.wikipedia.org/wiki/Continuous_integration"><img src="https://img.icons8.com/?size=512&id=51832&format=png" height="40" style="background:white;border-radius:8px;padding:3px;"/></a>
 </p>
 </div>
