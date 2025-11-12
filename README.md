@@ -115,7 +115,7 @@ I love taking complex problems and finding simple, clever ways to solve them. Iâ
 <td width="50%" valign="top">
 
 ### Tail Risk Management
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)]([https://github.com/VishalLakshmiNarayanan/tailrisk-management](https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis))
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 
 Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (LaR) and Conditional Value-at-Risk (CVaR) on 69K+ records
