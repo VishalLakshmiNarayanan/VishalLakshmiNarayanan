@@ -282,13 +282,6 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishalLakshmiNarayanan&theme=tokyonight" alt="GitHub Trophies" />
-
-</td>
-</tr>
 </table>
 
 </div>
