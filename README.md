@@ -4,8 +4,7 @@
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
 <h3 align="center">Data Science Enthusiast | AI Systems Builder | Full-Stack Engineer</h3>
 <p align="center">
-I love turning complex problems into simple, intelligent solutions.<br/>
-Exploring how AI, analytics, and real-world data can work together to drive innovation and make technology more human.
+I love taking complex problems and finding simple, clever ways to solve them. I’m always exploring how AI, data, and real-world ideas can come together to build things that actually help people. For me, it’s all about making technology feel smarter, friendlier, and more human.
 </p>
 
 <!-- ============================================================= -->
@@ -256,7 +255,6 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 ---
 
 
-
 <!-- ============================================================= -->
 <!-- GITHUB STATS -->
 <!-- ============================================================= -->
@@ -281,6 +279,13 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 <td colspan="2" align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalLakshmiNarayanan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VishalLakshmiNarayanan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </td>
 </tr>
