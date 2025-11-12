@@ -77,8 +77,11 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 ### Tail Risk Management
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/tailrisk-management)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 
 Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (LaR) and Conditional Value-at-Risk (CVaR) on 69K+ records
+
+**Currently Implementing:** CVaR optimization for tail risk minimization
 
 **Tech Stack:**
 - Python
