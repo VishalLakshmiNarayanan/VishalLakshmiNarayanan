@@ -49,11 +49,12 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
   <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40"/></a>
   <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40"/></a>
   <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" style="background:white;border-radius:8px;padding:3px;"/></a>
-  <a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" height="45" style="background:white;border-radius:8px;padding:3px;"/></a>
+  <a href="https://mlflow.org/"><img src="./mlflow.svg" alt="MLflow" height="45" style="background:white;border-radius:8px;padding:3px;"/></a>
   <a href="https://supabase.com/"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40"/></a>
   <a href="https://restfulapi.net/"><img src="https://img.icons8.com/external-outline-juicy-fish/60/ffffff/external-api-coding-and-development-outline-outline-juicy-fish.png" height="40"/></a>
 </p>
 </div>
+
 
 <!-- ===================== Data Analytics ===================== -->
 <div style="background:#1E1E1E;padding:15px;margin:10px;border-radius:15px;width:90%;">
@@ -86,14 +87,11 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <h3>Additional Proficiencies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux" height="45"/>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/N8n-logo-new.svg" alt="n8n Workflows" height="45" style="background:white;border-radius:8px;padding:3px;"/>
-</a>
+  <a href="https://n8n.io/"><img src="./n8n.png" alt="n8n Workflows" height="45" style="background:white;border-radius:8px;padding:3px;"/></a>
   <a href="https://en.wikipedia.org/wiki/Continuous_integration"><img src="https://img.icons8.com/?size=512&id=51832&format=png" height="40" style="background:white;border-radius:8px;padding:3px;"/></a>
 </p>
 </div>
 
-</div>
 
 ---
 
