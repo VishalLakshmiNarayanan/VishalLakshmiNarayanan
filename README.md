@@ -95,10 +95,11 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <h2 align="center">GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&theme=dark&show_icons=true&hide_border=false&count_private=true&commits_year=2025" width="48%"/>
+  <img src="https://github-readme-stats-vishals-projects.vercel.app/api?username=vishallakshminarayanan&show_icons=true&count_private=true&theme=dark&commits_year=2025" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishallakshminarayanan&theme=dark&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishallakshminarayanan&theme=dark&hide_border=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats-vishals-projects.vercel.app/api/top-langs/?username=vishallakshminarayanan&theme=dark&hide_border=false&layout=compact" width="48%"/>
 </div>
+
 
 
 ---
