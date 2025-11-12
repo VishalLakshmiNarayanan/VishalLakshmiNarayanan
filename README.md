@@ -60,6 +60,49 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
   </p>
 </div>
 
+---
+
+<!-- ============================================================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ============================================================= -->
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+### AI & Machine Learning
+
+- **[Celestia AI](https://github.com/VishalLakshmiNarayanan/Celestia-gl)** | [Live Demo](https://aicelestia.vercel.app/)
+  - Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration
+  - Built with Next.js, Three.js, ReAct-globe, TypeScript
+
+- **[SlideSage AI](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)** | [Live Demo](https://slidesageai.vercel.app/)
+  - AI-powered learning assistant that transforms concepts into dialogue-based explainer videos with adaptive regeneration
+  - Winner of 1st Place at DevHacks S2
+  - Built with Next.js, Groq, Pexels API, TypeScript
+
+- **[AI Travel Itinerary Planner](https://github.com/VishalLakshmiNarayanan/Zoro)**
+  - AI-driven platform generating optimized multi-day travel itineraries with real-time route refinement
+  - Won People's Choice Award at HackAZona v0.1
+  - Improved planning accuracy by 30%
+  - Built with Streamlit, Groq LLaMA, Python
+
+- **[Path2Pro – AI Job Portal](https://github.com/VishalLakshmiNarayanan/AFK-coders)**
+  - AI job-matching portal with semantic similarity scoring and automated resume parsing for 100+ applications
+  - Built with Python, Streamlit, SentenceTransformers, SQLite
+
+### Automation & Security
+
+- **[MAILY – AI Mailing & Scheduling Agent](https://github.com/VishalLakshmiNarayanan/n8n)**
+  - Automated email and scheduling via Gmail, Calendar, and Sheets with contact verification workflows
+  - Built with n8n, Groq LLM, Google APIs
+
+- **[PhishGuard](https://github.com/VishalLakshmiNarayanan/PhishGuard-)**
+  - Chrome extension using AI and VirusTotal for real-time phishing detection
+  - Built with JavaScript, Llama LLM, VirusTotal API
+
+</div>
+
+---
 
 
 
