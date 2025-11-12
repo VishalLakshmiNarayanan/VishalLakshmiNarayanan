@@ -69,40 +69,108 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 <div align="center">
 
-### AI & Machine Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[Celestia AI](https://github.com/VishalLakshmiNarayanan/Celestia-gl)** | [Live Demo](https://aicelestia.vercel.app/)
-  - Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration
-  - Built with Next.js, Three.js, ReAct-globe, TypeScript
+### Celestia AI
+[![Celestia AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
 
-- **[SlideSage AI](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)** | [Live Demo](https://slidesageai.vercel.app/)
-  - AI-powered learning assistant that transforms concepts into dialogue-based explainer videos with adaptive regeneration
-  - Winner of 1st Place at DevHacks S2
-  - Built with Next.js, Groq, Pexels API, TypeScript
+Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration
 
-- **[AI Travel Itinerary Planner](https://github.com/VishalLakshmiNarayanan/Zoro)**
-  - AI-driven platform generating optimized multi-day travel itineraries with real-time route refinement
-  - Won People's Choice Award at HackAZona v0.1
-  - Improved planning accuracy by 30%
-  - Built with Streamlit, Groq LLaMA, Python
+**Tech Stack:**
+- Next.js
+- Three.js
+- ReAct-globe
+- TypeScript
 
-- **[Path2Pro – AI Job Portal](https://github.com/VishalLakshmiNarayanan/AFK-coders)**
-  - AI job-matching portal with semantic similarity scoring and automated resume parsing for 100+ applications
-  - Built with Python, Streamlit, SentenceTransformers, SQLite
+</td>
+<td width="50%" valign="top">
 
-### Automation & Security
+### SlideSage AI
+[![SlideSage AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)
 
-- **[MAILY – AI Mailing & Scheduling Agent](https://github.com/VishalLakshmiNarayanan/n8n)**
-  - Automated email and scheduling via Gmail, Calendar, and Sheets with contact verification workflows
-  - Built with n8n, Groq LLM, Google APIs
+AI-powered learning assistant with dialogue-based explainer videos and adaptive regeneration
 
-- **[PhishGuard](https://github.com/VishalLakshmiNarayanan/PhishGuard-)**
-  - Chrome extension using AI and VirusTotal for real-time phishing detection
-  - Built with JavaScript, Llama LLM, VirusTotal API
+**Winner**: 1st Place at DevHacks S2
+
+**Tech Stack:**
+- Next.js
+- Groq
+- Pexels API
+- TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI Travel Itinerary Planner
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Zoro)
+
+AI-driven platform generating optimized multi-day travel itineraries with real-time route refinement
+
+**Winner**: People's Choice Award at HackAZona v0.1
+
+**Impact**: Improved planning accuracy by 30%
+
+**Tech Stack:**
+- Streamlit
+- Groq LLaMA
+- Python
+
+</td>
+<td width="50%" valign="top">
+
+### Path2Pro – AI Job Portal
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/AFK-coders)
+
+AI job-matching portal with semantic similarity scoring and automated resume parsing for 100+ applications
+
+**Tech Stack:**
+- Python
+- Streamlit
+- SentenceTransformers
+- SQLite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### MAILY – AI Mailing Agent
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/n8n)
+
+Automated email and scheduling via Gmail, Calendar, and Sheets with contact verification workflows
+
+**Tech Stack:**
+- n8n
+- Groq LLM
+- Google APIs
+
+</td>
+<td width="50%" valign="top">
+
+### PhishGuard
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/PhishGuard-)
+
+Chrome extension using AI and VirusTotal for real-time phishing detection
+
+**Tech Stack:**
+- JavaScript
+- Llama LLM
+- VirusTotal API
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
 
 
