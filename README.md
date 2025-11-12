@@ -62,6 +62,48 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 ---
 
+---
+
+<!-- ============================================================= -->
+<!-- WHAT I'M CURRENTLY WORKING ON -->
+<!-- ============================================================= -->
+<h2 align="center">What I'm Currently Working On</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+### Tail Risk Management – Extreme Insurance Claims Prediction
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/tailrisk-management)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (LaR) and Conditional Value-at-Risk (CVaR) frameworks on 69K+ auto insurance records
+
+**Key Features:**
+- Weighted regression optimizing for 99th percentile tail events
+- CVaR-based loss function capturing severity beyond threshold
+- 0.69% MSE reduction on extreme claims (>$26K)
+- Correlation-driven feature engineering on claim history and vehicle attributes
+
+**Tech Stack:**
+- Python
+- Scikit-learn
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Jupyter Notebook
+
+**Current Focus:** Implementing CVaR optimization to minimize tail risk exposure
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- ============================================================= -->
 <!-- FEATURED PROJECTS -->
 <!-- ============================================================= -->
