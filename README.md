@@ -62,26 +62,4 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 
 
 
-<!-- ============================================================= -->
-<!-- 📈 GITHUB STATS -->
-<!-- ============================================================= -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishallakshminarayanan&show_icons=true&locale=en&layout=compact" alt="vishallakshminarayanan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&locale=en" alt="vishallakshminarayanan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishallakshminarayanan&" alt="vishallakshminarayanan" /></p>
-
-
----
-
-<!-- ============================================================= -->
-<!-- ⚡ ACTIVITY GRAPH -->
-<!-- ============================================================= -->
-<h2 align="center">Recent Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishallakshminarayanan&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</p>
-
----
-
 
