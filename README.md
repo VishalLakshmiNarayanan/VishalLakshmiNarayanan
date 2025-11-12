@@ -15,7 +15,7 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
   <a href="https://medium.com/@lvishal1607" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://vishallakshportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://vishallakshportfolio.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/lv1607" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/lvleetcode/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/></a>
 </p>
