@@ -65,13 +65,11 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 <!-- ============================================================= -->
 <!-- 📈 GITHUB STATS -->
 <!-- ============================================================= -->
-<h2 align="center">GitHub Analytics</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=vishallakshminarayanan&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishallakshminarayanan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishallakshminarayanan&show_icons=true&locale=en&layout=compact" alt="vishallakshminarayanan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&locale=en" alt="vishallakshminarayanan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishallakshminarayanan&" alt="vishallakshminarayanan" /></p>
 
 
 ---
@@ -87,4 +85,3 @@ Exploring how AI, analytics, and real-world data can work together to drive inno
 ---
 
 
-i dont want boxes a single languages tool
