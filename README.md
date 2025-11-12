@@ -129,6 +129,21 @@ Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (
 - Pandas & NumPy
 - Matplotlib
 
+- ### Career Pulse
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/career-pulse)
+![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+
+AI-powered job-candidate matching platform with semantic resume analysis and transparency-driven scoring on 48,677+ LinkedIn AI/ML job listings
+
+**Key Features:** Resume parsing & optimization, dual-portal system (seeker/recruiter), ATS-optimized PDF generation, multi-weighted transparency scoring with interactive visualizations
+
+**Tech Stack:**
+- Python & Streamlit
+- Groq API (LLaMA 3.1) & Sentence Transformers
+- Pandas & NumPy
+- Plotly & LaTeX
+- pdfplumber & NLTK
+
 </td>
 </tr>
 </table>
@@ -198,23 +213,6 @@ AI-driven platform generating optimized multi-day travel itineraries with real-t
 - Python
 
 </td>
-<td width="50%" valign="top">
-
-### Path2Pro – AI Job Portal
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/AFK-coders)
-
-AI job-matching portal with semantic similarity scoring and automated resume parsing for 100+ applications
-
-**Tech Stack:**
-- Python
-- Streamlit
-- SentenceTransformers
-- SQLite
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### MAILY – AI Mailing Agent
