@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Vishal Lakshmi Narayanan</h1>
 <h3 align="center">I’m Vishal Lakshmi Narayanan, a data science enthusiast who loves turning complex problems into simple, intelligent solutions. I explore how AI, analytics, and real-world data can work together to drive innovation and make technology more human.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishallakshminarayanan" alt="vishallakshminarayanan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
