@@ -266,7 +266,7 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 <tr>
 <td width="50%" align="center">
 
- <img height="180em" src="https://github-readme-stats-theta-eosin-94.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </td>
 <td width="50%" align="center">
