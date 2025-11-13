@@ -266,19 +266,19 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 <tr>
 <td width="50%" align="center">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalLakshmiNarayanan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalLakshmiNarayanan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalLakshmiNarayanan&theme=dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 
 </td>
 </tr>
