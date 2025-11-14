@@ -118,15 +118,18 @@ I love taking complex problems and finding simple, clever ways to solve them. Iâ
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 
-Quantitative risk model predicting extreme insurance claims using Loss-at-Risk (LaR) and Conditional Value-at-Risk (CVaR) on 69K+ records
+Risk-aware ensemble framework for predicting catastrophic insurance losses using Loss-at-Risk (LaR), Conditional Value-at-Risk (CVaR), Quantile Regression, and a Tail-Aware Hybrid Meta-Ensemble trained on 69K+ claim-positive records.
 
-**Currently Implementing:** CVaR optimization for tail risk minimization
-
+**Currently Implementing:** Final Hybrid TailRisk Model (Î»-blended Quantile + LaR) implemented with significant improvements in Extreme-Tail MSE, CVaR residuals, and Tail Coverage Ratio (TCR).
 **Tech Stack:**
-- Python
-- Scikit-learn
+- Python (3.10+)
+- Scikit-learn (baseline + ensembles)
+- XGBoost
 - Pandas & NumPy
-- Matplotlib
+- Matplotlib & Seaborn
+- Custom LaR & CVaR loss implementations
+- Quantile Regression (95th percentile)
+- Meta-learning (OOF features + hybrid weighting)
 
 </td>
 <td width="50%" valign="top">
