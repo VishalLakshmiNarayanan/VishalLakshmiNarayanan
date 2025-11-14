@@ -161,92 +161,112 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Celestia AI
-[![Celestia AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)
+<td width="25%" valign="top">
+
+### Celestia AI  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
 
-Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration
+Holographic world explorer with narrated 3D map experiences
 
-**Tech Stack:**
-- Next.js
-- Three.js
-- ReAct-globe
-- TypeScript
+**Tech Stack:**  
+Next.js • Three.js • ReAct-globe • TypeScript
 
 </td>
-<td width="50%" valign="top">
 
-### SlideSage AI
-[![SlideSage AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)
+<td width="25%" valign="top">
+
+### SlideSage AI  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)
 
-AI-powered learning assistant with dialogue-based explainer videos and adaptive regeneration
+Dialogue-based explainer videos with adaptive regeneration  
+**Winner:** DevHacks S2
 
-**Winner**: 1st Place at DevHacks S2
-
-**Tech Stack:**
-- Next.js
-- Groq
-- Pexels API
-- TypeScript
+**Tech Stack:**  
+Next.js • Groq • Pexels API • TypeScript
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### AI Travel Itinerary Planner
+### AI Travel Itinerary Planner  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Zoro)
 
-AI-driven platform generating optimized multi-day travel itineraries with real-time route refinement
+Optimized multi-day travel routes with real-time refinement  
+**Winner:** HackAZona People’s Choice
 
-**Winner**: People's Choice Award at HackAZona v0.1
-
-**Impact**: Improved planning accuracy by 30%
-
-**Tech Stack:**
-- Streamlit
-- Groq LLaMA
-- Python
+**Tech Stack:**  
+Streamlit • Groq LLaMA • Python
 
 </td>
-<td width="50%" valign="top">
 
-### MAILY – AI Mailing Agent
+<td width="25%" valign="top">
+
+### MAILY – AI Mailing Agent  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/n8n)
 
-Automated email and scheduling via Gmail, Calendar, and Sheets with contact verification workflows
+Automated email + scheduling with workflow orchestration
 
-**Tech Stack:**
-- n8n
-- Groq LLM
-- Google APIs
+**Tech Stack:**  
+n8n • Groq LLM • Google APIs
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### PhishGuard
+<td width="25%" valign="top">
+
+### PhishGuard  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/PhishGuard-)
 
-Chrome extension using AI and VirusTotal for real-time phishing detection
+Chrome extension for real-time phishing detection
 
-**Tech Stack:**
-- JavaScript
-- Llama LLM
-- VirusTotal API
+**Tech Stack:**  
+JavaScript • Llama LLM • VirusTotal API
 
 </td>
-<td width="50%" valign="top">
 
-<!-- Empty cell for symmetry, or add another project here -->
+<td width="25%" valign="top">
+
+### CareerPulse  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/CareerPulse)
+
+AI-powered resume ↔ job semantic matching  
+with transparent scoring + skill embeddings
+
+**Tech Stack:**  
+Streamlit • Groq LLaMA • SBERT • Plotly
 
 </td>
+
+<td width="25%" valign="top">
+
+### TailShield – Risk-Aware Forecasting  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/TailRisk-Analysis)
+
+Catastrophic loss forecasting using Loss-at-Risk + CVaR-aware models
+
+**Tech Stack:**  
+Python • Scikit-Learn • CVaR • Custom LaR
+
+</td>
+
+<td width="25%" valign="top">
+
+### DevLabs Builder Intelligence  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Devlabs-club/website)
+
+Conversational resume intelligence pipeline powering builders and recruiters
+
+**Tech Stack:**  
+Astro • React • MongoDB • Groq LLaMA • Vector Search
+
+</td>
+
 </tr>
 </table>
 
