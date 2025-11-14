@@ -152,6 +152,7 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 </div>
 
+
 <!-- ============================================================= -->
 <!-- FEATURED PROJECTS -->
 <!-- ============================================================= -->
@@ -159,105 +160,138 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 <div align="center">
 <table>
+
+<!-- ===================== ROW 1 ===================== -->
 <tr>
 
-
-
-<!-- COLUMN 2 -->
+<!-- SlideSage AI -->
 <td width="33%" valign="top">
 
 ### SlideSage AI  
-[![SlideSage AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)
+[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)
 
-AI-powered learning assistant with dialogue-based explainer videos and adaptive regeneration  
-
-**Winner:** 1st Place at DevHacks S2  
+AI explainer-video generator with dynamic dialogue and adaptive learning.
 
 **Tech Stack:**  
 Next.js • Groq • Pexels API • TypeScript
 
 </td>
 
-<!-- COLUMN 6 (NEW PROJECT) -->
+<!-- Culture Bites -->
 <td width="33%" valign="top">
 
 ### Culture Bites  
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)]()  
-[![Live](https://img.shields.io/badge/Live%20App-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishallakshminarayanans-projects/v0-melting-pot-app)
+[![Live](https://img.shields.io/badge/Live%20App-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishallakshminarayanans-projects/v0-melting-pot-app)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/CultureBites)
 
-A culture-first social dining platform connecting **Guests**, **Hosts**, and **Cooks** through shared meals and AI-powered event recommendations.  
-
-**Highlights:**  
-• Three-sided marketplace  
-• AI recommendations (Groq LLaMA 3.3 70B)  
-• Real-time seat booking & collaboration workflows  
+Culture-first social dining marketplace connecting Guests, Hosts & Cooks through AI-discovered food experiences.
 
 **Tech Stack:**  
-Next.js 15 • React 19 • TypeScript • Supabase • Vercel
+Next.js • Supabase • Groq • TypeScript
 
 </td>
 
-</tr>
-
-<!-- COLUMN 1 -->
+<!-- Celestia AI -->
 <td width="33%" valign="top">
 
 ### Celestia AI  
-[![Celestia AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
+[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
 
-Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration  
+Holographic world explorer turning maps into narrated cinematic experiences.
 
 **Tech Stack:**  
 Next.js • Three.js • ReAct-globe • TypeScript
 
 </td>
 
-<!-- COLUMN 3 -->
+</tr>
+
+<!-- ===================== ROW 2 ===================== -->
+<tr>
+
+<!-- Chronos Guru -->
+<td width="33%" valign="top">
+
+### Chronos Guru  
+[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishals-projects-aa823dcf/v0-ai-history-tutor)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/timewrap-vd)
+
+AI-powered historical chat platform enabling conversations with real historical figures in 19+ languages.
+
+**Tech Stack:**  
+Next.js • TypeScript • Groq • Tailwind • Vercel
+
+</td>
+
+<!-- AI Travel Itinerary Planner -->
 <td width="33%" valign="top">
 
 ### AI Travel Itinerary Planner  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Zoro)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Zoro)
 
-AI-driven platform generating optimized multi-day travel itineraries with real-time route refinement  
-
-**Winner:** People's Choice Award at HackAZona v0.1  
-**Impact:** Improved planning accuracy by 30%  
+AI-powered trip planner generating optimized multi-day itineraries with real-time refinement.
 
 **Tech Stack:**  
 Streamlit • Groq LLaMA • Python
 
 </td>
 
-</tr>
-<tr>
-
-<!-- COLUMN 4 -->
+<!-- MAILY -->
 <td width="33%" valign="top">
 
 ### MAILY – AI Mailing Agent  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/n8n)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/n8n)
 
-Automated email and scheduling via Gmail, Calendar, and Sheets with contact verification workflows  
+Automated email and scheduling workflows using AI and Google services.
 
 **Tech Stack:**  
 n8n • Groq LLM • Google APIs
 
 </td>
 
-<!-- COLUMN 5 -->
+</tr>
+
+<!-- ===================== ROW 3 ===================== -->
+<tr>
+
+<!-- PhishGuard -->
 <td width="33%" valign="top">
 
 ### PhishGuard  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/PhishGuard-)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/PhishGuard-)
 
-Chrome extension using AI and VirusTotal for real-time phishing detection  
+Chrome extension detecting phishing pages using AI + VirusTotal signals.
 
 **Tech Stack:**  
 JavaScript • Llama LLM • VirusTotal API
 
 </td>
+
+<!-- Smart AI-Powered Job Portal -->
+<td width="33%" valign="top">
+
+### Smart AI-Powered Job Portal  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Course-Recommnedation-System)  
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
+
+AI job-matching system with semantic resume–JD similarity, skill-gap analysis & personalized upskilling paths.
+
+**Tech Stack:**  
+Python • Streamlit • Sentence-BERT • SQLite
+
+</td>
+
+<!-- EMPTY SLOT -->
+<td width="33%" valign="top">
+<!-- Add new project here later -->
+</td>
+
+</tr>
+
+</table>
+</div>
 
 
 
