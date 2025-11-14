@@ -161,19 +161,7 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 <table>
 <tr>
 
-<!-- COLUMN 1 -->
-<td width="33%" valign="top">
 
-### Celestia AI  
-[![Celestia AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
-
-Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration  
-
-**Tech Stack:**  
-Next.js • Three.js • ReAct-globe • TypeScript
-
-</td>
 
 <!-- COLUMN 2 -->
 <td width="33%" valign="top">
@@ -188,6 +176,41 @@ AI-powered learning assistant with dialogue-based explainer videos and adaptive 
 
 **Tech Stack:**  
 Next.js • Groq • Pexels API • TypeScript
+
+</td>
+
+<!-- COLUMN 6 (NEW PROJECT) -->
+<td width="33%" valign="top">
+
+### Culture Bites  
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)]()  
+[![Live](https://img.shields.io/badge/Live%20App-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishallakshminarayanans-projects/v0-melting-pot-app)
+
+A culture-first social dining platform connecting **Guests**, **Hosts**, and **Cooks** through shared meals and AI-powered event recommendations.  
+
+**Highlights:**  
+• Three-sided marketplace  
+• AI recommendations (Groq LLaMA 3.3 70B)  
+• Real-time seat booking & collaboration workflows  
+
+**Tech Stack:**  
+Next.js 15 • React 19 • TypeScript • Supabase • Vercel
+
+</td>
+
+</tr>
+
+<!-- COLUMN 1 -->
+<td width="33%" valign="top">
+
+### Celestia AI  
+[![Celestia AI](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
+
+Transforms maps into living worlds with holographic mascots, cinematic video loops, and real-time narration  
+
+**Tech Stack:**  
+Next.js • Three.js • ReAct-globe • TypeScript
 
 </td>
 
@@ -235,17 +258,6 @@ Chrome extension using AI and VirusTotal for real-time phishing detection
 JavaScript • Llama LLM • VirusTotal API
 
 </td>
-
-<!-- COLUMN 6 (optional placeholder) -->
-<td width="33%" valign="top">
-<!-- Add new project here or keep empty for symmetry -->
-</td>
-
-</tr>
-</table>
-</div>
-
----
 
 
 
