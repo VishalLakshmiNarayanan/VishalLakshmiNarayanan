@@ -277,7 +277,6 @@ JavaScript • Llama LLM • VirusTotal API
 
 ### Smart AI-Powered Job Portal  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Course-Recommnedation-System)  
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
 
 AI job-matching system with semantic resume–JD similarity, skill-gap analysis & personalized upskilling paths.
 
