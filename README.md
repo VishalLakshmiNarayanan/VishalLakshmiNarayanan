@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
 <h3 align="center">Data Science Enthusiast | AI Systems Builder | Full-Stack Engineer</h3>
 <p align="center">
-I love taking complex problems and finding simple, clever ways to solve them. I’m always exploring how AI, data, and real-world ideas can come together to build things that actually help people. For me, it’s all about making technology feel smarter, friendlier, and more human.
+I love taking complex problems and finding simple, clever ways to solve them. I’m always exploring how AI, data, and real-world ideas can come together to build things that actually help people. For me, it’s all about making technology feel smarter, friendlier, and more human
 </p>
 
 <!-- ============================================================= -->
