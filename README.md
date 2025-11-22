@@ -58,64 +58,58 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="7">
-
-<!-- ==== DATA SCIENCE ==== -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/NLP-000000?style=flat&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Recommender_Systems-000000?style=flat&logoColor=white" />&nbsp;
-
-<!-- ==== ANALYTICS ==== -->
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CPLEX-000000?style=flat&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />&nbsp;
-
-<!-- ==== DATA ENGINEERING ==== -->
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Databricks-EA242B?style=flat&logo=databricks&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />&nbsp;
-
-<!-- ==== WEB DEV ==== -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />&nbsp;
-
-<!-- ==== DEV TOOLS ==== -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />&nbsp;
-
-</marquee>
+### 🧠 Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="40"/>
 </p>
+
+---
+
+### 📊 Data Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi" height="40" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=excel" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=d3" height="40" />
+</p>
+
+---
+
+### 🛠 Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
+</p>
+
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,vercel,gcp" height="40" />
+</p>
+
+---
+
+### ⚙️ Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+</p>
+
 
 
 
