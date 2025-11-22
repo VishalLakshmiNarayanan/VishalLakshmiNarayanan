@@ -8,7 +8,6 @@
   <!-- Terminal Window Header -->
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-  <!-- Fake Terminal Block -->
   <div style="
       background:#0d1117;
       border:1px solid #30363d;
@@ -19,12 +18,13 @@
   ">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=2200&pause=900&center=true&vCenter=true&multiline=true&width=850&height=160&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;3x+Hackathon+Winner;Building+humane+solutions+with+AI;Engineering+simple%2C+clever+solutions+to+complex+problems;Building+AI+that+feels+smarter%2C+friendlier%2C+and+more+human"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1300&pause=800&center=true&vCenter=true&multiline=true&width=850&height=130&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;Building+AI+solutions+that+matter;Data+Science:+Modeling+%26+Machine+Learning;Data+Analytics:+Insights%2C+Dashboards%2C+Optimization"
   />
 
   </div>
 
 </div>
+
 
 
 
