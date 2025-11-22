@@ -29,87 +29,96 @@
 
 
 <!-- ============================================================= -->
-<!-- CONNECTION AND TECH STACK -->
+<!-- CONNECT -->
 <!-- ============================================================= -->
-## Connect With Me
-
+<h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://medium.com/@lvishal1607">
-    <img src="https://skillicons.dev/icons?i=medium" width="45" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://lvishal.com">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://discord.com/users/lv1607">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/lvleetcode/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
-  </a>
+  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@lvishal1607" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://lvishal.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/lv1607" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/lvleetcode/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/></a>
 </p>
 
+<!-- ============================================================= -->
+<!-- LANGUAGES & TOOLS -->
+<!-- ============================================================= -->
+<h2 align="center">Languages & Tools</h2>
 
----
+<div align="center">
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="40" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="40"/>
+### Data Science & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="40"/>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="35"/></a>
+  <a href="https://julialang.org/"><img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="35"/></a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://cdn-icons-png.flaticon.com/512/3613/3613249.png" height="35"/></a>
+  <a href="https://en.wikipedia.org/wiki/Recommender_system"><img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35"/></a>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" height="40" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=d3" height="40" />
+### Data Analytics & Visualization
+<p align="center">
+  <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/></a>
+  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40"/></a>
+  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35"/></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="35"/></a>
+  <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40"/></a>
+  <a href="https://d3js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="35"/></a>
 </p>
 
----
+</td>
+</tr>
 
-### 🛠 Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40"/>
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
+<tr>
+<td width="50%" valign="top">
+
+### Data Engineering & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker" height="40"/>
+  <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="35"/></a>
+  <a href="https://www.databricks.com/"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="35"/></a>
+  <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="35"/></a>
+  <a href="https://mlflow.org/"><img src="./mlflow.svg" height="35"/></a>
+  <a href="https://supabase.com/"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="35"/></a>
+  <a href="https://restfulapi.net/"><img src="https://img.icons8.com/external-outline-juicy-fish/60/ffffff/external-api-coding-and-development-outline-outline-juicy-fish.png" height="35"/></a>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,vercel,gcp" height="40" />
+### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,vercel,gcp" height="40"/>
 </p>
 
----
+</td>
+</tr>
 
-### ⚙️ Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+<tr>
+<td colspan="2" valign="top">
+
+### Development Tools & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40"/>
+  <a href="https://n8n.io/"><img src="./n8n.png" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Continuous_integration"><img src="https://img.icons8.com/?size=512&id=51832&format=png" height="35"/></a>
 </p>
 
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
