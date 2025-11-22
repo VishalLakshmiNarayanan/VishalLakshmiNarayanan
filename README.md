@@ -130,22 +130,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### Tail Risk Management
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis)
-![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+### TailRisk - Python Package
+[![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi)](https://pypi.org/project/tailrisk/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/TailriskLib)
+![Status](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
 
-Risk-aware ensemble framework for predicting catastrophic insurance losses using Loss-at-Risk (LaR), Conditional Value-at-Risk (CVaR), Quantile Regression, and a Tail-Aware Hybrid Meta-Ensemble trained on 69K+ claim-positive records.
+Production-ready Python package for risk-aware machine learning in insurance, finance, and tail-risk applications. Published on PyPI with full scikit-learn compatibility, implementing Loss-at-Risk (LaR) regression, CVaR-weighted ensembles, and Hybrid Meta-Learning trained on 69K+ insurance claims.
 
-**Currently Implementing:** Final Hybrid TailRisk Model (λ-blended Quantile + LaR) implemented with significant improvements in Extreme-Tail MSE, CVaR residuals, and Tail Coverage Ratio (TCR).
+**Currently Published:** Complete package featuring LaRRegressor, HybridMetaLearner (λ-blended Quantile + LaR optimization), CVaRWeightedEnsemble, and comprehensive tail-specific metrics achieving 76% improvement in Tail Coverage Ratio and 10% reduction in CVaR residuals vs baseline models.
+
 **Tech Stack:**
-- Python (3.10+)
-- Scikit-learn (baseline + ensembles)
-- XGBoost
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- Custom LaR & CVaR loss implementations
+- Python (3.8+) with type hints
+- Scikit-learn API compatibility
+- NumPy, SciPy, Pandas, Matplotlib
 - Quantile Regression (95th percentile)
 - Meta-learning (OOF features + hybrid weighting)
+- Custom LaR & CVaR loss implementations
+- GitHub Actions (automated PyPI publishing)
+- Comprehensive test suite & documentation
 
 </td>
 <td width="50%" valign="top">
@@ -171,145 +173,6 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 </div>
 
-
-<!-- ============================================================= -->
-<!-- FEATURED PROJECTS -->
-<!-- ============================================================= -->
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-<table>
-
-<!-- ===================== ROW 1 ===================== -->
-<tr>
-
-<!-- SlideSage AI -->
-<td width="33%" valign="top">
-
-### SlideSage AI  
-[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-00D9FF?style=for-the-badge&logo=vercel)](https://slidesageai.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)
-
-AI explainer-video generator with dynamic dialogue and adaptive learning.
-
-**Tech Stack:**  
-Next.js • Groq • Pexels API • TypeScript
-
-</td>
-
-<!-- Culture Bites -->
-<td width="33%" valign="top">
-
-### Culture Bites  
-[![Live](https://img.shields.io/badge/Live%20App-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishallakshminarayanans-projects/v0-melting-pot-app)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/CultureBites)
-
-Culture-first social dining marketplace connecting Guests, Hosts & Cooks through AI-discovered food experiences.
-
-**Tech Stack:**  
-Next.js • Supabase • Groq • TypeScript
-
-</td>
-
-<!-- Celestia AI -->
-<td width="33%" valign="top">
-
-### Celestia AI  
-[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-00D9FF?style=for-the-badge&logo=vercel)](https://aicelestia.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Celestia-gl)
-
-Holographic world explorer turning maps into narrated cinematic experiences.
-
-**Tech Stack:**  
-Next.js • Three.js • ReAct-globe • TypeScript
-
-</td>
-
-</tr>
-
-<!-- ===================== ROW 2 ===================== -->
-<tr>
-
-<!-- Chronos Guru -->
-<td width="33%" valign="top">
-
-### Chronos Guru  
-[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vishals-projects-aa823dcf/v0-ai-history-tutor)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/timewrap-vd)
-
-AI-powered historical chat platform enabling conversations with real historical figures in 19+ languages.
-
-**Tech Stack:**  
-Next.js • TypeScript • Groq • Tailwind • Vercel
-
-</td>
-
-<!-- AI Travel Itinerary Planner -->
-<td width="33%" valign="top">
-
-### AI Travel Itinerary Planner  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Zoro)
-
-AI-powered trip planner generating optimized multi-day itineraries with real-time refinement.
-
-**Tech Stack:**  
-Streamlit • Groq LLaMA • Python
-
-</td>
-
-<!-- MAILY -->
-<td width="33%" valign="top">
-
-### MAILY – AI Mailing Agent  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/n8n)
-
-Automated email and scheduling workflows using AI and Google services.
-
-**Tech Stack:**  
-n8n • Groq LLM • Google APIs
-
-</td>
-
-</tr>
-
-<!-- ===================== ROW 3 ===================== -->
-<tr>
-
-<!-- PhishGuard -->
-<td width="33%" valign="top">
-
-### PhishGuard  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/PhishGuard-)
-
-Chrome extension detecting phishing pages using AI + VirusTotal signals.
-
-**Tech Stack:**  
-JavaScript • Llama LLM • VirusTotal API
-
-</td>
-
-<!-- Smart AI-Powered Job Portal -->
-<td width="33%" valign="top">
-
-### Smart AI-Powered Job Portal  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/Course-Recommnedation-System)  
-
-AI job-matching system with semantic resume–JD similarity, skill-gap analysis & personalized upskilling paths.
-
-**Tech Stack:**  
-Python • Streamlit • Sentence-BERT • SQLite
-
-</td>
-
-<!-- EMPTY SLOT -->
-<td width="33%" valign="top">
-<!-- Add new project here later -->
-</td>
-
-</tr>
-
-</table>
-</div>
 
 
 
