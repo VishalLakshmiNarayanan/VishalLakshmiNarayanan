@@ -25,9 +25,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 
 <!-- ============================================================= -->
@@ -315,7 +313,9 @@ Python • Streamlit • Sentence-BERT • SQLite
 <tr>
 <td width="50%" align="center">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img src="https://streak-stats.demolab.com/?user=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 
 </td>
 <td width="50%" align="center">
