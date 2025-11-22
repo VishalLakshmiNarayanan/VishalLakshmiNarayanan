@@ -3,8 +3,10 @@
 <!-- ============================================================= -->
 <div>
 
+  <!-- Terminal Title Bar -->
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
+  <!-- Terminal Body -->
   <div style="
       background:#0d1117;
       border:1px solid #30363d;
@@ -19,25 +21,24 @@
     font=Fira+Code&
     size=18&
     color=00FF00&
-    duration=900&
+    duration=1100&
     pause=700&
     multiline=true&
     width=850&
-    height=240&
+    height=200&
     lines=
     vishal%40github:~$+profile.load;
-    [■□□□□□□□□□]+Initializing...;
-    [■■■□□□□□□□]+Loading+User+Details...;
     User:+Vishal+Lakshmi+Narayanan;
-    Role:+AI/ML+Engineer+%7C+3x+Hackathon+Winner;
-    Focus:+MS+Data+Science+@+ASU;
-    Mission:+Building+AI+that+feels+simple,+useful+%26+human.
+    •+MS+Data+Science+@+ASU;
+    •+AI/ML+Engineer+%26+3x+Hackathon+Winner;
+    •+I+turn+complex+problems+into+simple,+human+AI+solutions.
     "
   />
 
   </div>
 
 </div>
+
 
 
 
