@@ -1,18 +1,28 @@
- <!-- ============================================================= -->
+<!-- ============================================================= -->
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
+
 <div align="center">
 
-  <!-- Terminal Header -->
-  <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <!-- Terminal Window Header -->
+  <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-  <br/>
+  <!-- Fake Terminal Block -->
+  <div style="
+      background:#0d1117;
+      border:1px solid #30363d;
+      width:900px;
+      padding:20px;
+      border-radius:10px;
+      margin-top:10px;
+  ">
 
-  <!-- Typing Animation -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=2200&pause=900&center=true&vCenter=true&multiline=true&width=900&height=170&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;3x+Hackathon+Winner;Building+humane+solutions+with+AI;Engineering+simple%2C+clever+solutions+to+complex+problems;Building+AI+that+feels+smarter%2C+friendlier%2C+and+more+human"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=2200&pause=900&center=true&vCenter=true&multiline=true&width=850&height=160&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;3x+Hackathon+Winner;Building+humane+solutions+with+AI;Engineering+simple%2C+clever+solutions+to+complex+problems;Building+AI+that+feels+smarter%2C+friendlier%2C+and+more+human"
   />
+
+  </div>
 
 </div>
 
