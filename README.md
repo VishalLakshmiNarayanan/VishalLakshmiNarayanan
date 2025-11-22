@@ -1,12 +1,12 @@
 <!-- ============================================================= -->
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
-<h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
-
 <div>
 
+  <!-- Terminal Title Bar -->
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
+  <!-- Terminal Body -->
   <div style="
       background:#0d1117;
       border:1px solid #30363d;
@@ -16,8 +16,9 @@
       margin-top:10px;
   ">
 
+  <!-- Typing animation (left aligned, no centering) -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1300&pause=800&center=true&vCenter=true&multiline=true&width=850&height=130&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;I+turn+messy+real-world+problems+into+simple%2C+useful+AI+solutions.;I+work+where+data%2C+intuition%2C+and+human+impact+come+together."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1300&pause=800&multiline=true&width=850&height=150&lines=vishal%40github:~$+echo+'Hi,+I%27m+Vishal';Hi,+I'm+Vishal.;vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;I+turn+messy+real-world+problems+into+simple%2C+useful+AI+solutions.;I+work+where+data%2C+intuition%2C+and+human+impact+come+together."
   />
 
   </div>
