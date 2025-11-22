@@ -25,6 +25,9 @@
 </div>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 <!-- ============================================================= -->
