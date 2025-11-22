@@ -15,7 +15,24 @@
   ">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1450&pause=900&multiline=true&width=850&height=200&lines=vishal%40github:~$+profile.load;Loading+profile...;User:+Vishal+Lakshmi+Narayanan;%20;%20;vishal%40github:~$+sysinfo;MS+Data+Science+%40+ASU;%20AI,+ML,+Data+Engineering;%20;%20;vishal%40github:~$+aimod+--purpose=real-world;I+build+AI+that+solves+messy,+human+problems+simply."
+    src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code&
+    size=18&
+    color=00FF00&
+    duration=900&
+    pause=700&
+    multiline=true&
+    width=850&
+    height=240&
+    lines=
+    vishal%40github:~$+profile.load;
+    [■□□□□□□□□□]+Initializing...;
+    [■■■□□□□□□□]+Loading+User+Details...;
+    User:+Vishal+Lakshmi+Narayanan;
+    Role:+AI/ML+Engineer+%7C+3x+Hackathon+Winner;
+    Focus:+MS+Data+Science+@+ASU;
+    Mission:+Building+AI+that+feels+simple,+useful+%26+human.
+    "
   />
 
   </div>
