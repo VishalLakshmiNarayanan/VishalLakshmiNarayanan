@@ -3,10 +3,8 @@
 <!-- ============================================================= -->
 <div>
 
-  <!-- Terminal Title Bar -->
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-  <!-- Terminal Body -->
   <div style="
       background:#0d1117;
       border:1px solid #30363d;
@@ -16,14 +14,14 @@
       margin-top:10px;
   ">
 
-  <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1400&pause=900&multiline=true&width=850&height=190&lines=vishal%40github:~$+whoami;Vishal+Lakshmi+Narayanan;%20;%20;vishal%40github:~$+neofetch;MS+Data+Science+%40+ASU;%20AI+Builder+%7C+3x+Hackathon+Winner;%20;%20;vishal%40github:~$+skills+--focus=human+impact;Building+AI+that+feels+simple,+practical,+and+human."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1450&pause=900&multiline=true&width=850&height=200&lines=vishal%40github:~$+profile.load;Loading+profile...;User:+Vishal+Lakshmi+Narayanan;%20;%20;vishal%40github:~$+sysinfo;MS+Data+Science+%40+ASU;%20AI,+ML,+Data+Engineering;%20;%20;vishal%40github:~$+aimod+--purpose=real-world;I+build+AI+that+solves+messy,+human+problems+simply."
   />
 
   </div>
 
 </div>
+
 
 
 
