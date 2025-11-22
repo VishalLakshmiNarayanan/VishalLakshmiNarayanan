@@ -1,6 +1,8 @@
 <!-- ============================================================= -->
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
+<h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
+
 <div>
 
   <!-- Terminal Title Bar -->
@@ -16,29 +18,14 @@
       margin-top:10px;
   ">
 
+  <!-- Typing animation (left aligned, no centering) -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code&
-    size=18&
-    color=00FF00&
-    duration=1100&
-    pause=700&
-    multiline=true&
-    width=850&
-    height=200&
-    lines=
-    vishal%40github:~$+profile.load;
-    User:+Vishal+Lakshmi+Narayanan;
-    •+MS+Data+Science+@+ASU;
-    •+AI/ML+Engineer+%26+3x+Hackathon+Winner;
-    •+I+turn+complex+problems+into+simple,+human+AI+solutions.
-    "
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1300&pause=800&multiline=true&width=850&height=150&lines=vishal%40github:~$+echo+'Hi,+I%27m+Vishal';Hi,+I'm+Vishal.;vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;I+turn+messy+real-world+problems+into+simple%2C+useful+AI+solutions.;I+work+where+data%2C+intuition%2C+and+human+impact+come+together."
   />
 
   </div>
 
 </div>
-
 
 
 
