@@ -5,10 +5,8 @@
 
 <div>
 
-  <!-- Terminal Title Bar -->
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-  <!-- Terminal Body -->
   <div style="
       background:#0d1117;
       border:1px solid #30363d;
@@ -18,29 +16,14 @@
       margin-top:10px;
   ">
 
-  <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &size=18
-      &color=00FF00
-      &duration=1200
-      &pause=800
-      &multiline=true
-      &width=850
-      &height=170
-      &lines=
-      vishal%40github:~$+whoami;
-      Vishal+Lakshmi+Narayanan;
-      ▸+MS+Data+Science+%40+ASU;
-      ▸+AI/ML+Engineer+%26+3x+Hackathon+Winner;
-      ▸+I+build+simple,+human+AI+solutions+for+messy+real-world+problems.
-    "
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1200&pause=700&multiline=true&width=850&height=180&lines=vishal%40github%3A~%24+whoami;Vishal+Lakshmi+Narayanan;%E2%96%B8+MS+Data+Science+%40+ASU;%E2%96%B8+AI%2FML+Engineer+%26+3x+Hackathon+Winner;%E2%96%B8+Building+AI+that+is+simple%2C+human%2C+and+impactful.">
+  </img>
 
   </div>
 
 </div>
+
 
 <!-- ============================================================= -->
 <!-- CONNECT -->
