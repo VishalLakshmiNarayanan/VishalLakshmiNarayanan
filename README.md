@@ -28,81 +28,69 @@
 
 
 
-<!-- ============================================================= -->
-<!-- CONNECT -->
-<!-- ============================================================= -->
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@lvishal1607" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://vishallakshportfolio.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/lv1607" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/lvleetcode/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/></a>
-</p>
-
----
-
-
-
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center">Connect & Tech Stack</h2>
 
 <p align="center">
 <marquee behavior="scroll" direction="left" scrollamount="7">
 
-  <!-- DS & ML -->
-  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=r" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="35" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="35" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/3613/3613249.png" height="35" />&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=87488&format=png" height="35" />&nbsp;
+<!-- CONNECT BUTTONS -->
+<a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 
-  <!-- Analytics -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" />&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35" />&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="35" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="35" />&nbsp;
+<a href="https://medium.com/@lvishal1607" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-111?style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;
 
-  <!-- Engineering -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="35" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="35" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="35" />&nbsp;
-  <img src="./mlflow.svg" height="35" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="35" />&nbsp;
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/ffffff/external-api-coding-and-development-outline-outline-juicy-fish.png" height="35" />&nbsp;
+<a href="https://vishallakshportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
 
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=next" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" />&nbsp;
+<a href="https://discord.com/users/lv1607" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;
-  <img src="./n8n.png" height="40" />&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=51832&format=png" height="35" />&nbsp;
+<a href="https://leetcode.com/u/lvleetcode/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+</a>&nbsp;
+
+<!-- TECH STACK BUTTONS -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Databricks-EA242B?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
 
 </marquee>
 </p>
