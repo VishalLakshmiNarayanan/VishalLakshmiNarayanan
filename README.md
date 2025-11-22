@@ -2,7 +2,19 @@
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
-<h3 align="center">Data Science Enthusiast | AI Systems Builder | Full-Stack Engineer</h3>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/terminal-vishal%40devlabs:~-%230d1117?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+  <br />
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=vishal%40devlabs:~$+whoami;MS+Data+Science+Student+%40+ASU;3x+Hackathon+Winner+%7C+AI%2FML+Builder;Building+humane+solutions+with+AI"
+  />
+
+</div>
+
+
 <p align="center">
 I love taking complex problems and finding simple, clever ways to solve them. I’m always exploring how AI, data, and real-world ideas can come together to build things that actually help people. For me, it’s all about making technology feel smarter, friendlier, and more human
 </p>
