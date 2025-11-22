@@ -4,20 +4,20 @@
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
 <div align="center">
 
-  <img src="https://img.shields.io/badge/terminal-vishal%40devlabs:~-%230d1117?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <!-- Terminal Header -->
+  <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-  <br />
+  <br/>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=vishal%40devlabs:~$+whoami;MS+Data+Science+Student+%40+ASU;3x+Hackathon+Winner+%7C+AI%2FML+Builder;Building+humane+solutions+with+AI"
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=2200&pause=900&center=true&vCenter=true&multiline=true&width=900&height=170&lines=vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;3x+Hackathon+Winner;Building+humane+solutions+with+AI;Engineering+simple%2C+clever+solutions+to+complex+problems;Building+AI+that+feels+smarter%2C+friendlier%2C+and+more+human"
   />
 
 </div>
 
 
-<p align="center">
-I love taking complex problems and finding simple, clever ways to solve them. I’m always exploring how AI, data, and real-world ideas can come together to build things that actually help people. For me, it’s all about making technology feel smarter, friendlier, and more human
-</p>
+
 
 <!-- ============================================================= -->
 <!-- CONNECT -->
