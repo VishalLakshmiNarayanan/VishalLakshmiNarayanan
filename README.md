@@ -31,48 +31,60 @@
 <!-- ============================================================= -->
 <!-- CONNECTION AND TECH STACK -->
 <!-- ============================================================= -->
+## 🔗 Connect With Me
 
-<h2 align="center">Connect & Tech Stack</h2>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@lvishal1607">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://lvishal.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/lv1607">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/lvleetcode/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+</a>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
 <marquee behavior="scroll" direction="left" scrollamount="7">
 
-<!-- CONNECT BUTTONS (NO BLUE UNDERLINE) -->
-<a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/" target="_blank" style="text-decoration:none;border:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://medium.com/@lvishal1607" target="_blank" style="text-decoration:none;border:none;">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://lvishal.com" target="_blank" style="text-decoration:none;border:none;">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://discord.com/users/lv1607" target="_blank" style="text-decoration:none;border:none;">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-</a>&nbsp;
-
-<a href="https://leetcode.com/u/lvleetcode/" target="_blank" style="text-decoration:none;border:none;">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow" />
-</a>&nbsp;
-
-
-<!-- TECH STACK (FLAT + SMALLER BADGES) -->
+<!-- ==== DATA SCIENCE ==== -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NLP-000000?style=flat&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Recommender_Systems-000000?style=flat&logoColor=white" />&nbsp;
 
+<!-- ==== ANALYTICS ==== -->
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CPLEX-000000?style=flat&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />&nbsp;
 
+<!-- ==== DATA ENGINEERING ==== -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />&nbsp;
@@ -83,6 +95,7 @@
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />&nbsp;
 
+<!-- ==== WEB DEV ==== -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
@@ -90,7 +103,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />&nbsp;
@@ -98,12 +110,15 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />&nbsp;
 
+<!-- ==== DEV TOOLS ==== -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />&nbsp;
 
 </marquee>
 </p>
+
+
 
 <!-- ============================================================= -->
 <!-- WHAT I'M CURRENTLY WORKING ON -->
