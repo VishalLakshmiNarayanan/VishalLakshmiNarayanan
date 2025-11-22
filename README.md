@@ -41,6 +41,13 @@
 </p>
 
 ---
+
+### Play-through of my contributions
+
+[![GitHub Snake](https://github.com/Platane/snk/raw/main/docs/contrib-snake.svg)](https://github.com/Platane/snk)
+
+*Generates a snake-game from your GitHub contributions graph — I included it here to show my profile in action.*  
+
 <!-- ============================================================= -->
 <!-- LANGUAGES & TOOLS -->
 <!-- ============================================================= -->
