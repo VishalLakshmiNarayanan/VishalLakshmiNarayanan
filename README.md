@@ -24,6 +24,12 @@
 
 </div>
 
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/VishalLakshmiNarayanan?days=365&background=000000&color=00ff88&dot=00ff00&border=4&borderRadius=6" />
+</p>
+
+
 
 <!-- ============================================================= -->
 <!-- CONNECTION AND TECH STACK -->
