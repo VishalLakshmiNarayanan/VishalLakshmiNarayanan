@@ -31,31 +31,30 @@
 <!-- ============================================================= -->
 <!-- CONNECTION AND TECH STACK -->
 <!-- ============================================================= -->
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://medium.com/@lvishal1607">
+    <img src="https://skillicons.dev/icons?i=medium" width="45" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://lvishal.com">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://medium.com/@lvishal1607">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+  <a href="https://discord.com/users/lv1607">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://lvishal.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/lv1607">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/lvleetcode/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-</a>
-
+  <a href="https://leetcode.com/u/lvleetcode/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+  </a>
 </p>
+
 
 ---
 
