@@ -18,20 +18,29 @@
       margin-top:10px;
   ">
 
-  <!-- Typing animation (left aligned, no centering) -->
+  <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1300&pause=800&multiline=true&width=850&height=150&lines=vishal%40github:~$+echo+'Hi,+I%27m+Vishal';Hi,+I'm+Vishal.;vishal%40github:~$+cat+profile.txt;MS+Data+Science+%40+ASU;I+turn+messy+real-world+problems+into+simple%2C+useful+AI+solutions.;I+work+where+data%2C+intuition%2C+and+human+impact+come+together."
+    src="https://readme-typing-svg.herokuapp.com
+      ?font=Fira+Code
+      &size=18
+      &color=00FF00
+      &duration=1200
+      &pause=800
+      &multiline=true
+      &width=850
+      &height=170
+      &lines=
+      vishal%40github:~$+whoami;
+      Vishal+Lakshmi+Narayanan;
+      ▸+MS+Data+Science+%40+ASU;
+      ▸+AI/ML+Engineer+%26+3x+Hackathon+Winner;
+      ▸+I+build+simple,+human+AI+solutions+for+messy+real-world+problems.
+    "
   />
 
   </div>
 
 </div>
-
-
-
-
-
-
 
 <!-- ============================================================= -->
 <!-- CONNECT -->
