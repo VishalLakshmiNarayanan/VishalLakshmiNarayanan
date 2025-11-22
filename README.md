@@ -320,7 +320,7 @@ Python • Streamlit • Sentence-BERT • SQLite
 </td>
 <td width="50%" align="center">
 
-  <img src="https://github-contribution-stats.vercel.app/api/?username=VishalLakshmiNarayanan&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 
 
