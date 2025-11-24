@@ -191,10 +191,10 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 
 
   <!-- Statistics: Commit series -->
-<picture>
+
   <source srcset="https://raw.githubusercontent.com/VishalLakshmiNarayanan/VishalLakshmiNarayanan/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/VishalLakshmiNarayanan/VishalLakshmiNarayanan/main/output/stats_commits.svg">
-</picture>
+
 
 
 </td>
