@@ -190,7 +190,11 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 <td width="50%" align="center">
 
 
-  <img src="https://streak-stats.demolab.com/?user=VishalLakshmiNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Statistics: Commit series -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/VishalLakshmiNarayanan/VishalLakshmiNarayanan/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/VishalLakshmiNarayanan/VishalLakshmiNarayanan/main/output/stats_commits.svg">
+</picture>
 
 
 </td>
