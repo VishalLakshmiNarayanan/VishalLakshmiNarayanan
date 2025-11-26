@@ -174,10 +174,6 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 </div>
 
 
-
-
-
-
 <!-- ============================================================= -->
 <!-- GITHUB STATS -->
 <!-- ============================================================= -->
