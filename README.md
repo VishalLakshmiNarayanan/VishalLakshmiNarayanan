@@ -182,16 +182,7 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 <div align="center">
 
 <table>
-<tr>
 
-<td width="50%" align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishallakshminarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-
-
-</td>
-</tr>
 <tr>
 <td colspan="2" align="center">
 
