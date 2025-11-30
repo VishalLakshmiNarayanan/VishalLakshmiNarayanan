@@ -191,9 +191,6 @@ AI-powered job-candidate matching platform with semantic resume analysis and tra
 </td>
 </tr>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalLakshmiNarayanan&label=Profile%20views&color=0e75b6&style=flat" alt="VishalLakshmiNarayanan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishalLakshmiNarayanan" alt="VishalLakshmiNarayanan" /></a> </p>
 </div>
 
 ---
