@@ -134,7 +134,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/compliance-investment-recommender)
 ![Status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
 
-AI-driven recommendation system that suggests suitable bank investment policies (FD, SIP, MF, ULIP, retirement plans) based on user spending behavior, risk capacity, and liquidity strength — with compliance screening for suitability and mis-selling prevention.
+AI-driven recommendation system that suggests suitable bank investment policies (FD, SIP, MF, ULIP, retirement plans) based on user spending behavior, risk capacity, and liquidity strength with compliance screening for suitability and mis-selling prevention.
 
 **Current Work**
 - Synthetic financial dataset design
