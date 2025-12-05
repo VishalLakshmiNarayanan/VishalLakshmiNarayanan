@@ -131,16 +131,15 @@
 <td width="50%" valign="top">
 
 ### Compliance-First Investment Recommendation System (Retail Banking)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/compliance-investment-recommender)
 ![Status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20ML%20%7C%20FastAPI-green?style=for-the-badge)
 
-Responsible AI system recommending investment products based on user spending, surplus, and risk capacity — with built-in compliance checks for suitability, liquidity, lock-in risk, and mis-selling prevention.
+AI-driven recommendation system that suggests suitable bank investment policies (FD, SIP, MF, ULIP, retirement plans) based on user spending behavior, risk capacity, and liquidity strength — with compliance screening for suitability and mis-selling prevention.
 
-**Highlights**
-- Behavioral scoring (volatility, surplus, EMI load)
-- Synthetic dataset simulation
-- Compliance engine (risk + liquidity rules)
-- Future: FastAPI backend + Streamlit UI + deployment
+**Current Work**
+- Synthetic financial dataset design
+- Feature engineering + behavioral scoring
+- Compliance rule engine planning
 
 </td>
 <td width="50%" valign="top">
@@ -150,19 +149,26 @@ Responsible AI system recommending investment products based on user spending, s
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/TailriskLib)
 ![Status](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
 
-Python package for risk-aware ML in insurance + finance with LaR regression, Hybrid Meta-Learning, CVaR-weighted ensembles, and tail-focused metrics.
+Production-ready Python package for risk-aware machine learning in insurance, finance, and tail-risk applications. Published on PyPI with full scikit-learn compatibility, implementing Loss-at-Risk (LaR) regression, CVaR-weighted ensembles, and Hybrid Meta-Learning trained on 69K+ insurance claims.
 
-**Tech Stack**
-- Python, NumPy, SciPy, Pandas
-- Scikit-learn compatible API
-- LaR regression & CVaR evaluation
-- Meta-learning ensemble
+**Currently Published:** Complete package featuring LaRRegressor, HybridMetaLearner (λ-blended Quantile + LaR optimization), CVaRWeightedEnsemble, and comprehensive tail-specific metrics achieving 76% improvement in Tail Coverage Ratio and 10% reduction in CVaR residuals vs baseline models.
+
+**Tech Stack:**
+- Python (3.8+) with type hints
+- Scikit-learn API compatibility
+- NumPy, SciPy, Pandas, Matplotlib
+- Quantile Regression (95th percentile)
+- Meta-learning (OOF features + hybrid weighting)
+- Custom LaR & CVaR loss implementations
+- GitHub Actions (automated PyPI publishing)
+- Comprehensive test suite & documentation
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 
