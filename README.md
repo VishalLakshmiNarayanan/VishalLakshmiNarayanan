@@ -15,7 +15,6 @@
       border-radius:10px;
       margin-top:10px;
   ">
-
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1200&pause=700&multiline=true&width=850&height=180&lines=vishal%40github%3A~%24+whoami;Vishal+Lakshmi+Narayanan;%E2%96%B8+MS+Data+Science+%40+ASU;%E2%96%B8+AI%2FML+Engineer+%26+3x+Hackathon+Winner;%E2%96%B8+Building+AI+that+is+simple%2C+human%2C+and+impactful.">
   </img>
