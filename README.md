@@ -2,9 +2,7 @@
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
 <h1 align="center">Hi, I'm <b>Vishal Lakshmi Narayanan</b></h1>
-
 <div>
-
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
   <div style="
