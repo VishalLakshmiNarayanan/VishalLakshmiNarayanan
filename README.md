@@ -114,56 +114,82 @@
 </div>
 
 
-
 <!-- ============================================================= -->
-<!-- WHAT I'M CURRENTLY WORKING ON -->
+<!-- FEATURED PROJECTS (COMPACT) -->
 <!-- ============================================================= -->
-<h2 align="center">What I'm Currently Working On</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### Compliance-First Investment Recommendation System (Retail Banking)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/compliance-investment-recommender)
-![Status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
+      <h3>Celestia AI</h3>
+      <a href="https://aicelestia.vercel.app/">
+        <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
+      </a>
+      <a href="https://github.com/VishalLakshmiNarayanan/Celestia-gl">
+        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <p>Transforms maps into living worlds with holographic mascots, cinematic loops, and real-time narration.</p>
 
-AI-driven recommendation system that suggests suitable bank investment policies (FD, SIP, MF, ULIP, retirement plans) based on user spending behavior, risk capacity, and liquidity strength with compliance screening for suitability and mis-selling prevention.
+    </td>
+    <td width="50%" valign="top">
 
-**Current Work**
-- Synthetic financial dataset design
-- Feature engineering + behavioral scoring
-- Compliance rule engine planning
+      <h3>SlideSage AI</h3>
+      <a href="https://slidesageai.vercel.app/">
+        <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
+      </a>
+      <a href="https://github.com/VishalLakshmiNarayanan/SlideSage-v3">
+        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <img alt="Award" src="https://img.shields.io/badge/Award-DevHacks%20S2%20Winner-gold?style=for-the-badge">
+      <p>AI learning assistant that generates dialogue-based explainer videos with adaptive regeneration.</p>
 
-</td>
-<td width="50%" valign="top">
+    </td>
+  </tr>
 
-### TailRisk - Python Package
-[![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi)](https://pypi.org/project/tailrisk/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/VishalLakshmiNarayanan/TailriskLib)
-![Status](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
+  <tr>
+    <td width="50%" valign="top">
 
-Production-ready Python package for risk-aware machine learning in insurance, finance, and tail-risk applications. Published on PyPI with full scikit-learn compatibility, implementing Loss-at-Risk (LaR) regression, CVaR-weighted ensembles, and Hybrid Meta-Learning trained on 69K+ insurance claims.
+      <h3>AI Travel Itinerary Planner</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
+        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <img alt="Award" src="https://img.shields.io/badge/Award-HackAZona%20People's%20Choice-gold?style=for-the-badge">
+      <p>Generates optimized multi-day itineraries with route refinement using Groq LLMs.</p>
 
-**Currently Published:** Complete package featuring LaRRegressor, HybridMetaLearner (λ-blended Quantile + LaR optimization), CVaRWeightedEnsemble, and comprehensive tail-specific metrics achieving 76% improvement in Tail Coverage Ratio and 10% reduction in CVaR residuals vs baseline models.
+    </td>
+    <td width="50%" valign="top">
 
-**Tech Stack:**
-- Python (3.8+) with type hints
-- Scikit-learn API compatibility
-- NumPy, SciPy, Pandas, Matplotlib
-- Quantile Regression (95th percentile)
-- Meta-learning (OOF features + hybrid weighting)
-- Custom LaR & CVaR loss implementations
-- GitHub Actions (automated PyPI publishing)
-- Comprehensive test suite & documentation
+      <h3>MAILY – AI Mailing Agent</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/n8n">
+        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <p>Automates email + scheduling via Gmail/Calendar workflows with contact verification.</p>
 
-</td>
-</tr>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>PhishGuard</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/PhishGuard-">
+        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <p>Chrome extension for real-time phishing detection using AI + VirusTotal signals.</p>
+
+    </td>
+    <td width="50%" valign="top">
+      <!-- optional: add one more compact project here to keep symmetry -->
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 
 
