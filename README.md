@@ -1,3 +1,4 @@
+
 <!-- ============================================================= -->
 <!-- ✨ HEADER -->
 <!-- ============================================================= -->
@@ -115,80 +116,94 @@
 
 
 <!-- ============================================================= -->
-<!-- FEATURED PROJECTS (COMPACT) -->
+<!-- FEATURED PROJECTS -->
 <!-- ============================================================= -->
+
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+        <h3>TailRisk (Python Package)</h3>
+        <a href="https://pypi.org/project/tailrisk/">
+          <img src="https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi">
+        </a>
+        <a href="https://github.com/VishalLakshmiNarayanan/TailriskLib">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge">
+        <p>
+          Risk-aware ML library implementing Loss-at-Risk regression, CVaR ensembles, and tail-focused evaluation for insurance and finance.
+        </p>
 
-      <h3>Celestia AI</h3>
-      <a href="https://aicelestia.vercel.app/">
-        <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
-      </a>
-      <a href="https://github.com/VishalLakshmiNarayanan/Celestia-gl">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-      </a>
-      <p>Transforms maps into living worlds with holographic mascots, cinematic loops, and real-time narration.</p>
+      </td>
+      <td width="50%" valign="top">
 
-    </td>
-    <td width="50%" valign="top">
+        <h3>Career Pulse</h3>
+        <a href="https://github.com/VishalLakshmiNarayanan/career-pulse">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge">
+        <p>
+          Semantic resume–job matching platform with transparent scoring across 48K+ AI/ML job listings.
+        </p>
 
-      <h3>SlideSage AI</h3>
-      <a href="https://slidesageai.vercel.app/">
-        <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
-      </a>
-      <a href="https://github.com/VishalLakshmiNarayanan/SlideSage-v3">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-      </a>
-      <img alt="Award" src="https://img.shields.io/badge/Award-DevHacks%20S2%20Winner-gold?style=for-the-badge">
-      <p>AI learning assistant that generates dialogue-based explainer videos with adaptive regeneration.</p>
+      </td>
+    </tr>
 
-    </td>
-  </tr>
+    <tr>
+      <td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
+        <h3>Celestia AI</h3>
+        <a href="https://aicelestia.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
+        </a>
+        <a href="https://github.com/VishalLakshmiNarayanan/Celestia-gl">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <p>
+          Transforms maps into interactive worlds with 3D visuals, narration, and cinematic effects.
+        </p>
 
-      <h3>AI Travel Itinerary Planner</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-      </a>
-      <img alt="Award" src="https://img.shields.io/badge/Award-HackAZona%20People's%20Choice-gold?style=for-the-badge">
-      <p>Generates optimized multi-day itineraries with route refinement using Groq LLMs.</p>
+      </td>
+      <td width="50%" valign="top">
 
-    </td>
-    <td width="50%" valign="top">
+        <h3>SlideSage AI</h3>
+        <a href="https://slidesageai.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel">
+        </a>
+        <a href="https://github.com/VishalLakshmiNarayanan/SlideSage-v3">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <img src="https://img.shields.io/badge/Award-DevHacks%20S2%20Winner-gold?style=for-the-badge">
+        <p>
+          AI learning assistant that generates adaptive, dialogue-based explainer videos.
+        </p>
 
-      <h3>MAILY – AI Mailing Agent</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/n8n">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-      </a>
-      <p>Automates email + scheduling via Gmail/Calendar workflows with contact verification.</p>
+      </td>
+    </tr>
 
-    </td>
-  </tr>
+    <tr>
+      <td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
+        <h3>MAILY – AI Mailing Agent</h3>
+        <a href="https://github.com/VishalLakshmiNarayanan/n8n">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <p>
+          Automates email and scheduling workflows using Gmail, Calendar, and Sheets.
+        </p>
 
-      <h3>PhishGuard</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/PhishGuard-">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-      </a>
-      <p>Chrome extension for real-time phishing detection using AI + VirusTotal signals.</p>
-
-    </td>
-    <td width="50%" valign="top">
-      <!-- optional: add one more compact project here to keep symmetry -->
-    </td>
-  </tr>
-</table>
-
+      </td>
+      <td width="50%" valign="top">
+        <!-- intentionally left blank for symmetry -->
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
