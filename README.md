@@ -168,6 +168,27 @@
       <p>AI learning assistant that generates adaptive, dialogue-based explainer videos.</p>
     </td>
   </tr>
+  <tr>
+      <td width="50%" valign="top">
+        <h3>MAILY – AI Mailing Agent</h3>
+        <a href="https://github.com/VishalLakshmiNarayanan/n8n">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <p>
+          Automates email and scheduling workflows using Gmail, Calendar, and Sheets.
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>AI Travel Itinerary Planner</h3>
+        <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+        </a>
+        <img src="https://img.shields.io/badge/Award-HackAZona%20People's%20Choice-gold?style=for-the-badge">
+        <p>
+          Generates optimized multi-day travel plans with real-time route refinement.
+        </p>
+      </td>
+    </tr>
 </table>
 
 </div>
