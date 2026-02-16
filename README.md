@@ -130,7 +130,6 @@
       <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange?style=for-the-badge">
       <p>Interactive Streamlit dashboard for microburst impact assessment, visualizing 40,000+ trees and carbon impact metrics.</p>
     </td>
-  </tr>
       <td width="50%" valign="top">
         <h3>AI Travel Itinerary Planner</h3>
         <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
