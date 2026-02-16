@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>TailRisk (Python Package)</h3>
@@ -122,7 +122,7 @@
     </td>
   </tr>
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>Tempe Urban Forest Analytics</h3>
       <a href="https://github.com/VishalLakshmiNarayanan/tempe-tree-inventory">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
@@ -130,19 +130,18 @@
       <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange?style=for-the-badge">
       <p>Interactive Streamlit dashboard for microburst impact assessment, visualizing 40,000+ trees and carbon impact metrics.</p>
     </td>
-      <td width="50%" valign="top">
-        <h3>AI Travel Itinerary Planner</h3>
-        <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-        </a>
-        <img src="https://img.shields.io/badge/Award-HackAZona%20People's%20Choice-gold?style=for-the-badge">
-        <p>Generates optimized multi-day travel plans with real-time route refinement and destination discovery.</p>
-      </td>
-    </tr>
+    <td width="50%" valign="top">
+      <h3>AI Travel Itinerary Planner</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <img src="https://img.shields.io/badge/Award-HackAZona%20People's%20Choice-gold?style=for-the-badge">
+      <p>Generates optimized multi-day travel plans with real-time route refinement and destination discovery.</p>
+    </td>
+  </tr>
 </table>
 
 </div>
-
 
 <h2 align="center">GitHub Stats</h2>
 
