@@ -48,6 +48,7 @@
       <h3>SlideSage AI</h3>
       <a href="https://slidesageai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/VishalLakshmiNarayanan/SlideSage-v3"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Award-First%20Place-gold?style=flat-square"/>
       <p><b>DevHacks S2 Winner:</b> Adaptive AI learning assistant that converts complex PDF notes into dialogue-based explainer videos.</p>
     </td>
     <td width="50%" valign="top">
