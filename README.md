@@ -1,13 +1,14 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://lvishal.com/">Vishal Lakshmi Narayanan</a> 🚀</h1>
-  <p><i>Building AI that is simple, human, and impactful.</i></p>
+  <p><i>MS in Data Science, Analytics & Engineering @ Arizona State University</i></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=MS+Data+Science+Student+%40+ASU;AI%2FML+Engineer;3x+Hackathon+Winner;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;3x+Hackathon+Winner;Building+Impactful+AI;Data+Science+Graduate+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://lvishal.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://medium.com/@lvishal1607"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:lvishal1607@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -20,54 +21,52 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI / Machine Learning** | `Python` `R` `PyTorch` `TensorFlow` `Scikit-Learn` `HuggingFace` `NLP` |
-| **Data Engineering** | `MySQL` `PostgreSQL` `Docker` `Apache Spark` `Airflow` `MLflow` `Databricks` |
-| **Data Viz & Analytics** | `Tableau` `PowerBI` `Streamlit` `Matplotlib` `Seaborn` `D3.js` |
-| **Fullstack Development** | `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Firebase` `GCP` |
+| **AI / Machine Learning** | `Python` `R` `PyTorch` `TensorFlow` `Scikit-Learn` `HuggingFace` `NLP` `Deep Learning` |
+| **Data Engineering** | `MySQL` `PostgreSQL` `Docker` `Apache Spark` `Airflow` `MLflow` `Databricks` `GCP` |
+| **Analytics & Viz** | `Tableau` `PowerBI` `Streamlit` `Matplotlib` `Seaborn` `D3.js` `Excel` |
+| **Fullstack Development** | `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Firebase` `Tailwind` |
+| **Automation & Tools** | `n8n` `Git` `GitHub Actions` `Linux` `Terminal` |
 
 ---
 
-## 📂 My Repository Directory
-*Click on a category to expand and explore my work.*
+## 📂 Repository Directory
+*A curated list of my technical work and research.*
 
 <details>
-<summary><b>🚀 Machine Learning & Research</b></summary>
+<summary><b>🚀 Machine Learning & Financial Engineering</b></summary>
 <br/>
 
-- **[TailRisk](https://github.com/VishalLakshmiNarayanan/TailriskLib)**: A Python package for risk-aware ML modeling in finance/insurance.
-- **[Career Pulse](https://github.com/VishalLakshmiNarayanan/career-pulse)**: LLM-powered resume parsing and job matching system.
-- **[Financial Distress Prediction](https://github.com/VishalLakshmiNarayanan/SEC-Data-Analysis)**: Capstone project using SEC data to predict company profitability.
-- **[Immigration Narratives NLP](https://github.com/VishalLakshmiNarayanan/immigration-nlp)**: Research project analyzing socio-political narratives through NLP.
+- **[TailRisk](https://github.com/VishalLakshmiNarayanan/TailriskLib)**: A Python package for risk-aware ML modeling, implementing Loss-at-Risk and CVaR-weighted ensembles.
+- **[Career Pulse](https://github.com/VishalLakshmiNarayanan/career-pulse)**: AI resume-to-job matching platform using LLMs and semantic embeddings.
+- **[SEC Data Capstone](https://github.com/VishalLakshmiNarayanan/SEC-Data-Analysis)**: Predictive modeling for company profitability and financial distress.
 </details>
 
 <details>
-<summary><b>💡 AI Agents & Automation</b></summary>
+<summary><b>💡 AI Agents & Education Tech</b></summary>
 <br/>
 
-- **[SlideSage AI](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)**: Adaptive learning assistant generating educational videos from notes.
-- **[MAILY](https://github.com/VishalLakshmiNarayanan/n8n)**: AI-driven email and workflow automation agent using n8n.
-- **[Zoro Travel Planner](https://github.com/VishalLakshmiNarayanan/Zoro)**: Multi-day itinerary generator with real-time refinement.
+- **[SlideSage AI](https://github.com/VishalLakshmiNarayanan/SlideSage-v3)**: Award-winning (DevHacks S2) learning assistant that converts notes into explainer videos.
+- **[Zoro Travel Planner](https://github.com/VishalLakshmiNarayanan/Zoro)**: AI itinerary generator with real-time route refinement (HackAZona People's Choice).
+- **[MAILY](https://github.com/VishalLakshmiNarayanan/n8n)**: Multi-agent automation system for email and scheduling workflows.
 </details>
 
 <details>
 <summary><b>🛠 Data Engineering & Visualization</b></summary>
 <br/>
 
-- **[Marketing Data Cleaning](https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning)**: Robust pipeline for cleaning messy marketing datasets.
-- **[Celestia AI](https://github.com/VishalLakshmiNarayanan/Celestia-gl)**: Interactive 3D map visualization and narration engine.
-- **[SEC Data Pipeline](https://github.com/VishalLakshmiNarayanan/sec-pipeline)**: Automated ingestion and processing of financial statements.
+- **[Marketing Campaign Data Cleaning](https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning)**: Robust pipeline for standardizing messy datasets and handling temporal integrity.
+- **[Celestia AI](https://github.com/VishalLakshmiNarayanan/Celestia-gl)**: 3D map visualization engine with narrative-driven cinematiic effects.
 </details>
 
 <details>
-<summary><b>🎨 Fullstack & Other Projects</b></summary>
+<summary><b>🔍 Research & Social Impact</b></summary>
 <br/>
 
-- **[Personal Portfolio](https://github.com/VishalLakshmiNarayanan/portfolio-v2)**: The source code for my 3D-interactive personal website.
-- **[FIFA Analytics](https://github.com/VishalLakshmiNarayanan/fifa-stats)**: Exploring player performance data through interactive dashboards.
+- **[Immigration Narratives](https://github.com/VishalLakshmiNarayanan/Immigration_Project)**: NLP research analyzing socio-political narratives in media.
 </details>
 
 ---
@@ -78,5 +77,6 @@
 </div>
 
 <div align="center">
-  <p>Last Updated: Feb 2026</p>
+  <p><i>“The best way to predict the future is to build it.”</i></p>
+  <p>Last Profile Sync: Feb 2026</p>
 </div>
