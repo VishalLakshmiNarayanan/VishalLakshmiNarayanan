@@ -96,7 +96,7 @@
       <a href="https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
       </a>
-      <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Data%20Quality-blue?style=for-the-badge">
       <p>End-to-end pipeline for cleaning messy campaign data, handling currency transformation, temporal integrity, and outlier management.</p>
     </td>
   </tr>
@@ -117,18 +117,20 @@
       <a href="https://github.com/VishalLakshmiNarayanan/career-pulse">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
       </a>
-      <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Data%20Pipeline-blue?style=for-the-badge">
       <p>Semantic resume–job matching platform providing transparent scoring and alignment analysis across thousands of AI/ML listings.</p>
     </td>
   </tr>
   <tr>
       <td width="50%" valign="top">
-        <h3>MAILY – AI Mailing Agent</h3>
-        <a href="https://github.com/VishalLakshmiNarayanan/n8n">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-        </a>
-        <p>Automates email and scheduling workflows using Gmail, Calendar, and Sheets through an n8n-powered multi-agent system.</p>
-      </td>
+      <h3>Tempe Urban Forest Analytics</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/tempe-tree-inventory">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+      </a>
+      <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange?style=for-the-badge">
+      <p>Interactive Streamlit dashboard for microburst impact assessment, visualizing 40,000+ trees and carbon impact metrics.</p>
+    </td>
+  </tr>
       <td width="50%" valign="top">
         <h3>AI Travel Itinerary Planner</h3>
         <a href="https://github.com/VishalLakshmiNarayanan/Zoro">
