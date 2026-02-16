@@ -124,7 +124,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Tempe Urban Forest Analytics</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/tempe-tree-inventory">
+      <a href="https://github.com/VishalLakshmiNarayanan/TempeMicroburst">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
       </a>
       <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange?style=for-the-badge">
