@@ -37,10 +37,24 @@
       <p>Risk-aware Machine Learning library implementing Loss-at-Risk regression and CVaR ensembles for financial and insurance modeling.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>GCP E-Commerce Optimization</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GCP-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
+      <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <p>Cloud-native audit of 2,336+ user events identifying a 33% email conversion rate and establishing $30-$40 CAC guardrails using BigQuery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Marketing Data Cleaning</h3>
       <a href="https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Focus-Data%20Quality-blue?style=flat-square"/>
-      <p>End-to-end pipeline standardizing messy campaign datasets, featuring currency transformation, temporal integrity checks, and outlier management.</p>
+      <p>End-to-end pipeline standardizing messy campaign datasets, featuring currency transformation and outlier management.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tempe Urban Forest Analytics</h3>
+      <a href="https://github.com/VishalLakshmiNarayanan/TempeMicroburst"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Focus-Geospatial-orange?style=flat-square"/>
+      <p>Geospatial dashboard assessing microburst impacts, visualizing 40,000+ trees and calculating carbon metrics for urban management.</p>
     </td>
   </tr>
   <tr>
@@ -56,20 +70,6 @@
       <a href="https://github.com/VishalLakshmiNarayanan/career-pulse"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Focus-Data%20Pipeline-blue?style=flat-square"/>
       <p>Semantic resume-job matching platform providing transparent scoring across 48,000+ AI/ML job listings.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Tempe Urban Forest Analytics</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/TempeMicroburst"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Geospatial-orange?style=flat-square"/>
-      <p>Geospatial dashboard assessing microburst impacts, visualizing 40,000+ trees and calculating carbon metrics for urban management.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Travel Planner</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/Zoro"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=flat-square&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Award-People's%20Choice-gold?style=flat-square"/>
-      <p><b>HackAZona Award:</b> Optimized multi-day travel generator with real-time route refinement and destination discovery.</p>
     </td>
   </tr>
 </table>
