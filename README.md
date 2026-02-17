@@ -40,7 +40,7 @@
       <h3>GCP E-Commerce Optimization</h3>
       <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GCP-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
       <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data-Analysis-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square"/>
       <p>Architected a GCP pipeline to audit 2,336+ raw event logs. Leveraged Standard SQL (CTEs & Window Functions) to engineer a 5-stage conversion funnel, uncovering a 33% Email conversion rate and establishing $30-$40 CAC guardrails.</p>
     </td>
   </tr>
@@ -54,7 +54,7 @@
     <td width="50%" valign="top">
       <h3>Tempe Urban Forest Analytics</h3>
       <a href="https://github.com/VishalLakshmiNarayanan/TempeMicroburst"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data-Dashboard-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square"/>
       <p>Geospatial dashboard assessing microburst impacts, visualizing 40,000+ trees and calculating carbon metrics for urban management.</p>
     </td>
   </tr>
