@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Marketing Data Cleaning</h3>
+      <h3>Marketing Campaign Data Cleaning</h3>
       <a href="https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Focus-Data%20Quality-blue?style=flat-square"/>
       <p>End-to-end pipeline standardizing messy campaign datasets, featuring currency transformation and outlier management.</p>
