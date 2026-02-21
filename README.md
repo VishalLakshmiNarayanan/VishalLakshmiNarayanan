@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
 <div style="background:#0d1117; border:1px solid #30363d; width:900px; padding:20px; border-radius:10px; margin-top:10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&duration=1200&pause=700&multiline=true&width=850&height=220&lines=vishal%40github%3A~%24+whoami;Vishal+Lakshmi+Narayanan;%E2%96%B8+Data+Analyst+%7C+Product+%26+Strategic+Insights;%E2%96%B8+BigQuery+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Tableau;%E2%96%B8+Driving+Business+Outcomes+via+Predictive+Modeling;%E2%96%B8+MS+Data+Science%2C+Analytics+%40+ASU">
-</div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=00FF00&duration=1200&pause=800&multiline=true&width=850&height=350&lines=vishal%40github%3A~%24+whoami;%E2%96%B8+Vishal+Lakshmi+Narayanan;%E2%96%B8+Current+Role%3A+Project+Manager+%40+AI+MakerSpace+(The+AI+Society);%E2%96%B8+Data+Analyst+%7C+Product+%26+Strategic+Insights;%E2%96%B8+Skilled+In%3A+BigQuery+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Tableau;%E2%96%B8+3x+Hackathon+Winner+%7C+Statistical+Analysis+%26+Predictive+Modeling;%E2%96%B8+Impact%3A+Modeling+Financial+Distress+%26+NLP+Immigration+Research;%E2%96%B8+MS+Data+Science%2C+Analytics+%26+Engineering+%40+ASU">
+  </div>
 </div>
 
 <br/>
