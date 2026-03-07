@@ -5,4 +5,4 @@
          width="100%">
   </a>
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalLakshmiNarayanan&theme=graywhite)
+![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalLakshmiNarayanan&theme=graywhite)
