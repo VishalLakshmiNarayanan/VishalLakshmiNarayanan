@@ -1,96 +1,71 @@
-<h1 align="center">Vishal Lakshmi Narayanan</h1>
-<div align="center">
-  <img src="https://img.shields.io/badge/terminal-vishal@github:~-%230d1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+# Vishal Lakshmi Narayanan
+### Data Analyst | Product & Strategic Insights 
+**MS Data Science, Analytics & Engineering @ Arizona State University**
 
-<div style="background:#0d1117; border:1px solid #30363d; width:900px; padding:20px; border-radius:10px; margin-top:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=00FF00&duration=1200&pause=800&multiline=true&width=850&height=380&lines=vishal%40github%3A~%24+whoami;%E2%96%B8+Vishal+Lakshmi+Narayanan;%E2%96%B8+Project+Manager+%40+The+AI+Society+ASU;%E2%96%B8+Product+%26+Strategic+Insights+%7C+Data+Analyst;%E2%96%B8+Skilled+In%3A+Google+BigQuery+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Tableau;%E2%96%B8+3x+Hackathon+Winner+%7C+Devhacks+S2+Winner+(1%2F175+Teams);%E2%96%B8+Optimized+%2441K%2B+Revenue+Strategy+via+BigQuery+Pipelines;%E2%96%B8+NLP+Research+Contributor+%40+ASU+Data+Science+%26+Analytics+Lab;%E2%96%B8+MS+Data+Science%2C+Analytics+%26+Engineering+%40+ASU">
-  </div>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=globus&logoColor=white)](https://lvishal.com/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lvishal1607)
 
-<br/>
+---
 
-<h2 align="center">Technical Stack</h2>
+## 📈 Professional Summary
+Data-driven Graduate Student with a specialization in **Machine Learning and Business Intelligence**. I bridge the gap between complex data architectures and executive decision-making. My expertise lies in building automated ETL pipelines in **GCP**, performing deep-dive SQL analysis for **Conversion Optimization**, and developing **NLP** models for sentiment tracking.
 
-<div align="center">
+* **Current Focus:** AI MakerSpace Project Manager @ The AI Society, ASU.
+* **Key Achievement:** Optimized $41K+ revenue strategies via BigQuery SQL pipelines.
 
-| Category | Technologies and Frameworks |
+---
+
+## 🛠️ Data Stack
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Data Science & ML** | <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" height="25"/> `Scikit-Learn` `HuggingFace` `NLP` `Recommender Systems` |
-| **Data Engineering** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,gcp" height="25"/> `Apache Spark` `Airflow` `MLflow` `Databricks` |
-| **Analytics & Visualization** | <img src="https://skillicons.dev/icons?i=tableau,powerbi,streamlit" height="25"/> `Matplotlib` `Seaborn` `D3.js` `Excel` |
-| **Development & Infrastructure** | <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,mongodb,firebase,git,linux" height="25"/> |
+| **Analysis & SQL** | **SQL (BigQuery, PostgreSQL, MySQL)**, Python (Pandas, NumPy, Scipy) |
+| **BI & Visualization** | **Tableau**, Power BI, Streamlit, Matplotlib, Seaborn, Plotly |
+| **Data Engineering** | **GCP**, Apache Spark, Airflow, dbt, Docker, ETL/ELT Pipelines |
+| **Advanced Analytics** | **NLP (HuggingFace)**, Scikit-Learn, Regression, Forecasting, A/B Testing |
 
-</div>
+---
 
-<br/>
+## 📂 Featured Data Projects
 
-<h2 align="center">Featured Projects</h2>
+### 🛍️ [E-Commerce Funnel & Revenue Optimization](https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization)
+**Tools:** GCP BigQuery, Standard SQL, Window Functions, CTEs.
+* **Business Problem:** The marketing team lacked visibility into where customers dropped off in the 2,300+ daily event logs.
+* **Solution:** Built a 5-stage conversion funnel using SQL window functions to track user flow from 'view' to 'purchase'.
+* **Insight:** Discovered a **33% email conversion spike** and identified high-churn touchpoints, establishing a **$30-$40 CAC guardrail** for ad spend.
 
-<div align="center">
+### 📉 [TailRisk: Actuarial Loss Prediction Library](https://pypi.org/project/tailrisk/)
+**Tools:** Python, PyPI, Scikit-Learn, Ensemble Learning.
+* **Project Goal:** Standardize "Black Swan" event modeling for insurance and finance.
+* **Execution:** Developed a risk-aware ML library implementing **Loss-at-Risk** regression and **CVaR** (Conditional Value at Risk) ensembles.
+* **Impact:** Published on PyPI for open-source use in financial risk assessment.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TailRisk (Python Package)</h3>
-      <a href="https://pypi.org/project/tailrisk/"><img src="https://img.shields.io/badge/PyPI-v0.1.3-3775A9?style=flat-square&logo=pypi&logoColor=white"/></a>
-      <a href="https://github.com/VishalLakshmiNarayanan/TailriskLib"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <p>Risk-aware Machine Learning library implementing Loss-at-Risk regression and CVaR ensembles for financial and insurance modeling.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>GCP E-Commerce Optimization</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GCP-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
-      <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square"/>
-      <p>Architected a GCP pipeline to audit 2,336+ raw event logs. Leveraged Standard SQL (CTEs & Window Functions) to engineer a 5-stage conversion funnel, uncovering a 33% Email conversion rate and establishing $30-$40 CAC guardrails.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Marketing Campaign Data Cleaning</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/Marketing_campaign_data_cleaning"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data%20Quality-blue?style=flat-square"/>
-      <p>End-to-end pipeline standardizing messy campaign datasets, featuring currency transformation and outlier management.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tempe Urban Forest Analytics</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/TempeMicroburst"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square"/>
-      <p>Geospatial dashboard assessing microburst impacts, visualizing 40,000+ trees and calculating carbon metrics for urban management.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SlideSage AI</h3>
-      <a href="https://slidesageai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/VishalLakshmiNarayanan/SlideSage-v3"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Award-First%20Place-gold?style=flat-square"/>
-      <p><b>DevHacks S2 Winner:</b> Adaptive AI learning assistant that converts complex PDF notes into dialogue-based explainer videos.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Career Pulse</h3>
-      <a href="https://github.com/VishalLakshmiNarayanan/career-pulse"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Focus-Data%20Pipeline-blue?style=flat-square"/>
-      <p>Semantic resume-job matching platform providing transparent scoring across 48,000+ AI/ML job listings.</p>
-    </td>
-  </tr>
-</table>
+### 🌳 [Tempe Urban Forest: Geospatial Analytics](https://github.com/VishalLakshmiNarayanan/TempeMicroburst)
+**Tools:** Geospatial Analysis, Python, Dashboards.
+* **Scenario:** Assessing the environmental impact of microburst weather events on urban infrastructure.
+* **Analysis:** Processed 40,000+ tree records to visualize damage patterns and calculate carbon sequestration metrics for city management.
 
-</div>
+### 🏛️ [NLP Sentiment Analysis: Immigration Narrative](https://github.com/VishalLakshmiNarayanan/SOTU-NLP-Project)
+**Tools:** NLP, Topic Modeling, Python, ASU Library Data.
+* **Overview:** Part of a volunteer research project analyzing US immigration discourse and public sentiment shifts in the 2026 SOTU narrative.
 
-<br/>
+---
 
-<h2 align="center">Development Activity</h2>
+## 🏆 Recognitions
+* **1st Place Winner** – DevHacks S2 (Out of 175 Teams)
+* **Runner-up** – GI Bots Hackathon
+* **People's Choice** – Hackazona v0.1
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalLakshmiNarayanan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
+---
 
-<br/>
+## 📊 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VishalLakshmiNarayanan&show_icons=true&theme=tokyo-night&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalLakshmiNarayanan&layout=compact&theme=tokyo-night&hide_border=true" height="150" />
+</p>
 
-<h2 align="center">Contact and Collaboration</h2>
+---
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;
-  <a href="https://medium.com/@lvishal1607"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35"/></a>&nbsp;
-  <a href="https://lvishal.com/"><img src="https://img.icons8.com/fluency/48/000000/internet.png" height="35"/></a>&nbsp;
-  <a href="https://discord.com/users/lv1607"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <i>"Turning raw data into strategic growth."</i> <br>
+  <b>Let's connect:</b> <a href="mailto:your-email@asu.edu">Email</a> | <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">LinkedIn</a>
 </p>
