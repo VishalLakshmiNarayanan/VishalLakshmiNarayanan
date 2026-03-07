@@ -1,82 +1,71 @@
+<h1 align="center">Vishal Lakshmi Narayanan</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Strategy-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/University-ASU-8C1D40?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://lvishal.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="mailto:your-email@asu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🛠️ Technical Ecosystem
+
 <div align="center">
-  <h1>VISHAL LAKSHMI NARAYANAN</h1>
-  <p>DATA ANALYST • PRODUCT & STRATEGIC INSIGHTS</p>
-  <kbd>Python</kbd> <kbd>SQL</kbd> <kbd>GCP</kbd> <kbd>BigQuery</kbd> <kbd>Tableau</kbd>
-</div>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="100%" bgcolor="#161b22">
-      <p align="center"><b>EXECUTIVE SUMMARY</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Master of Science in Data Science candidate at Arizona State University. Specialized in transforming raw datasets into strategic growth levers. Proven track record in architecting GCP pipelines and optimizing revenue streams ($41K+) through advanced SQL modeling and NLP research.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### 🛠 TECHNICAL ECOSYSTEM
 
 | | |
 | :--- | :--- |
-| **ANALYSIS** | `BigQuery` • `PostgreSQL` • `Pandas` • `NumPy` • `Scipy` |
-| **ENGINEERING** | `GCP` • `Airflow` • `dbt` • `Apache Spark` • `Docker` |
-| **VISUALIZATION** | `Tableau` • `Power BI` • `Streamlit` • `Plotly` • `D3.js` |
-| **AI & RESEARCH** | `NLP` • `HuggingFace` • `Scikit-Learn` • `Risk Modeling` |
+| **Data Analysis** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Cloud & Engineering** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-6699ff?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Green?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Selected Case Studies
+
+#### 📊 [GCP E-Commerce: Funnel & Revenue Optimization](https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization)
+* **Context:** Automated audit of 2,300+ event logs using **BigQuery**.
+* **Insight:** Engineered a conversion funnel uncovering a 33% Email ROI spike.
+* **Result:** Established $30-$40 CAC guardrails for future marketing spend.
+* `BigQuery` `Window Functions` `CTEs` `GCP`
+
+#### 📉 [TailRisk: Actuarial Machine Learning Library](https://pypi.org/project/tailrisk/)
+* **Context:** Open-source Python package for financial risk and loss prediction.
+* **Method:** Implements Loss-at-Risk regression and CVaR ensembles.
+* **Impact:** Standardizing the modeling of "Black Swan" events in insurance.
+* `Python` `PyPI` `Scikit-Learn` `Ensemble-Modeling`
+
+#### 🏛️ [NLP Discourse: Immigration Narrative Research](https://github.com/VishalLakshmiNarayanan/SOTU-NLP-Project)
+* **Context:** Volunteer NLP research with ASU Library analyzing US immigration sentiment.
+* **Analysis:** Tracking topic shifts and public sentiment in 2026 SOTU discourse.
+* `NLP` `Topic Modeling` `Sentiment Analysis` `Python`
+
+---
+
+### 🏆 Recognitions & Impact
+* **Winner (1/175)** — DevHacks S2
+* **AI MakerSpace Project Manager** — The AI Society at ASU
+* **Technical Officer** — DevLabs
 
 <br />
 
-### 📂 STRATEGIC CASE STUDIES
-
-<details open>
-<summary><b>GCP E-COMMERCE: FUNNEL & REVENUE OPTIMIZATION</b></summary>
-<br />
-Architected a cloud-native pipeline to audit 2,300+ event logs. Using BigQuery CTEs and Window Functions, I engineered a 5-stage conversion funnel that uncovered a 33% conversion spike via email touchpoints. This analysis established $30-$40 CAC guardrails for future marketing spend.
-<br />
-<i>Tech: Google Cloud Platform, BigQuery, Standard SQL</i>
-</details>
-
-<br />
-
-<details open>
-<summary><b>TAILRISK: ACTUARIAL MACHINE LEARNING</b></summary>
-<br />
-Developed and published an open-source Python library for risk-aware financial modeling. Implemented Loss-at-Risk regression and CVaR ensembles to standardize the prediction of extreme insurance losses ("Black Swan" events).
-<br />
-<i>Tech: Python, PyPI, Scikit-Learn, Ensemble Methods</i>
-</details>
-
-<br />
-
-<details open>
-<summary><b>SOTU: NLP DISCOURSE ANALYSIS</b></summary>
-<br />
-Contributing to ASU Data Science & Analytics Lab by analyzing shifts in immigration narratives. Leveraging NLP to track public sentiment and topic shifts within the 2026 State of the Union immigration discourse.
-<br />
-<i>Tech: Python, NLP, Topic Modeling, Sentiment Analysis</i>
-</details>
-
-<br />
-
-### 🏛 LEADERSHIP & IMPACT
-
-* **PROJECT MANAGER | THE AI SOCIETY ASU**
-  Leading the AI MakerSpace initiatives, managing cross-functional teams to deploy ML resources and educational workshops.
-* **TECHNICAL OFFICER | DEVLABS**
-  Overseeing technical strategy and delivery for high-impact software and data projects.
-* **HACKATHON SUCCESS**
-  Winner of DevHacks S2 (1/175 teams), People’s Choice at Hackazona, and Runner-up at GI Bots.
-
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalLakshmiNarayanan&show_icons=true&theme=tokyo-night&hide_border=true" />
+</div>
 
 <p align="center">
-  <a href="https://lvishal.com/">PORTFOLIO</a> &nbsp;&nbsp; • &nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">LINKEDIN</a> &nbsp;&nbsp; • &nbsp;&nbsp; 
-  <a href="mailto:your-email@asu.edu">CONTACT</a>
+  <i>"Turning raw data into strategic growth."</i>
 </p>
