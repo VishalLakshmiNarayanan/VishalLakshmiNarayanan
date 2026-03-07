@@ -5,24 +5,27 @@
          width="100%">
   </a>
 </p>
-## Featured Industry Projects
+Featured Projects
 
-### [E-Commerce Funnel & Revenue Optimization](https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization)
-> **GCP BigQuery | Marketing Analytics**
-* **The Challenge:** Auditing **2,336 unique user events** to identify conversion leaks and optimize a $100+ AOV.
-* **The Solution:** Engineered a terminal-to-terminal tracking system in **BigQuery** to analyze Funnel Velocity and Channel Attribution.
-* **Impact:** * Identified **Email as the primary ROI driver** (33% conversion) vs. Social (7%).
-    * Established a **$40 CAC ceiling** based on Revenue Per Visitor ($17.72) data.
-* **Stack:** `GCP` • `BigQuery` • `SQL` • `Looker` • `Funnel Analysis`
-
----
-
-### [Tail Risk Management: Actuarial Ensemble](https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis)
-> **InsurTech | Risk Modeling**
-* **The Challenge:** Standard ML models "smooth out" catastrophic losses (top 1%), leading to multi-million dollar insurance under-pricing.
-* **The Solution:** Developed a **$\lambda$-blended Hybrid Model** using Quantile Regression to prioritize Tail Coverage (TCR) over global MSE.
-* **Impact:** * **+197% improvement** in catastrophic claim detection.
-    * **10.3% reduction** in CVaR(95%) residuals, optimizing capital reserve efficiency.
-* **Stack:** `Python` • `XGBoost` • `Quantile Regression` • `Scikit-Learn` • `Actuarial Science`
-
----
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VishalLakshmiNarayanan/gcp-ecommerce-funnel-optimization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalLakshmiNarayanan&repo=gcp-ecommerce-funnel-optimization&theme=transparent&show_owner=true" width="100%"/>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Platform-GCP_BigQuery-blue?style=flat-square&logo=google-cloud" /> 
+      <img src="https://img.shields.io/badge/Impact-33%25_Conv_Rate-success?style=flat-square" />
+      <p><i>Optimizing multi-channel ROI and funnel velocity using BigQuery SQL.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VishalLakshmiNarayanan/Tail-Risk-Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalLakshmiNarayanan&repo=Tail-Risk-Analysis&theme=transparent&show_owner=true" width="100%"/>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Model-Ensemble_ML-orange?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/Impact-%2B197%25_Detection-success?style=flat-square" />
+      <p><i>Actuarial severity modeling focused on 95th percentile tail-risk protection.</i></p>
+    </td>
+  </tr>
+</table>
