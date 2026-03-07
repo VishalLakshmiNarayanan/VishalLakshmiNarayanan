@@ -1,65 +1,82 @@
-<h1 align="center">VISHAL LAKSHMI NARAYANAN</h1>
-<p align="center">
-  <em>Data Analyst | Product & Strategic Insights</em><br>
-  MS Data Science, Analytics & Engineering • Arizona State University
-</p>
+<div align="center">
+  <h1>VISHAL LAKSHMI NARAYANAN</h1>
+  <p>DATA ANALYST • PRODUCT & STRATEGIC INSIGHTS</p>
+  <kbd>Python</kbd> <kbd>SQL</kbd> <kbd>GCP</kbd> <kbd>BigQuery</kbd> <kbd>Tableau</kbd>
+</div>
 
-<p align="center">
-  <a href="https://lvishal.com/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">LinkedIn</a> • 
-  <a href="mailto:your-email@asu.edu">Email</a>
-</p>
+<br />
 
----
+<table width="100%">
+  <tr>
+    <td width="100%" bgcolor="#161b22">
+      <p align="center"><b>EXECUTIVE SUMMARY</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Master of Science in Data Science candidate at Arizona State University. Specialized in transforming raw datasets into strategic growth levers. Proven track record in architecting GCP pipelines and optimizing revenue streams ($41K+) through advanced SQL modeling and NLP research.
+    </td>
+  </tr>
+</table>
 
-### PROFESSIONAL PROFILE
+<br />
 
-I specialize in bridging the gap between raw data architecture and executive decision-making. My work focuses on the development of automated ETL pipelines and deep-dive SQL analysis to drive conversion optimization and product strategy.
+### 🛠 TECHNICAL ECOSYSTEM
 
----
-
-### CORE COMPETENCIES
-
-| Domain | Technical Proficiency |
+| | |
 | :--- | :--- |
-| **Analysis** | SQL (BigQuery, PostgreSQL), Python (Pandas, NumPy), Excel |
-| **Engineering** | GCP, Apache Spark, Airflow, dbt, Docker |
-| **Visualization** | Tableau, Power BI, Streamlit, Matplotlib |
-| **Applied ML** | NLP (HuggingFace), Scikit-Learn, Risk Modeling |
+| **ANALYSIS** | `BigQuery` • `PostgreSQL` • `Pandas` • `NumPy` • `Scipy` |
+| **ENGINEERING** | `GCP` • `Airflow` • `dbt` • `Apache Spark` • `Docker` |
+| **VISUALIZATION** | `Tableau` • `Power BI` • `Streamlit` • `Plotly` • `D3.js` |
+| **AI & RESEARCH** | `NLP` • `HuggingFace` • `Scikit-Learn` • `Risk Modeling` |
 
----
+<br />
 
-### SELECTED CASE STUDIES
+### 📂 STRATEGIC CASE STUDIES
 
-#### GCP E-Commerce Funnel Optimization
-> **Business Impact:** Engineered a 5-stage conversion funnel in BigQuery to audit 2,300+ daily event logs. Identified a 33% conversion spike via email touchpoints and established $30-$40 CAC guardrails for future marketing spend.
-> 
-> **Architecture:** BigQuery, Standard SQL, CTEs, Window Functions.
+<details open>
+<summary><b>GCP E-COMMERCE: FUNNEL & REVENUE OPTIMIZATION</b></summary>
+<br />
+Architected a cloud-native pipeline to audit 2,300+ event logs. Using BigQuery CTEs and Window Functions, I engineered a 5-stage conversion funnel that uncovered a 33% conversion spike via email touchpoints. This analysis established $30-$40 CAC guardrails for future marketing spend.
+<br />
+<i>Tech: Google Cloud Platform, BigQuery, Standard SQL</i>
+</details>
 
-#### TailRisk: Actuarial Loss Prediction
-> **Business Impact:** Developed a risk-aware Machine Learning library designed for financial and insurance modeling. Implemented Loss-at-Risk regression and CVaR ensembles to standardize "Black Swan" event modeling.
-> 
-> **Architecture:** Python, PyPI, Scikit-Learn, Ensemble Learning.
+<br />
 
-#### Tempe Urban Forest Analytics
-> **Business Impact:** Geospatial assessment of microburst impacts on 40,000+ urban trees. Calculated carbon sequestration metrics to inform municipal urban forest management and recovery efforts.
-> 
-> **Architecture:** Python, Geospatial Analysis, Dashboards.
+<details open>
+<summary><b>TAILRISK: ACTUARIAL MACHINE LEARNING</b></summary>
+<br />
+Developed and published an open-source Python library for risk-aware financial modeling. Implemented Loss-at-Risk regression and CVaR ensembles to standardize the prediction of extreme insurance losses ("Black Swan" events).
+<br />
+<i>Tech: Python, PyPI, Scikit-Learn, Ensemble Methods</i>
+</details>
 
----
+<br />
 
-### RESEARCH & LEADERSHIP
+<details open>
+<summary><b>SOTU: NLP DISCOURSE ANALYSIS</b></summary>
+<br />
+Contributing to ASU Data Science & Analytics Lab by analyzing shifts in immigration narratives. Leveraging NLP to track public sentiment and topic shifts within the 2026 State of the Union immigration discourse.
+<br />
+<i>Tech: Python, NLP, Topic Modeling, Sentiment Analysis</i>
+</details>
 
-**Project Manager | The AI Society @ ASU**
-Directing AI MakerSpace initiatives and managing cross-functional teams to deliver accessible machine learning resources and workshops.
+<br />
 
-**NLP Research Contributor | ASU Data Science & Analytics Lab**
-Analyzing public sentiment and shifts in immigration narratives using NLP techniques on large-scale political discourse datasets.
+### 🏛 LEADERSHIP & IMPACT
 
----
+* **PROJECT MANAGER | THE AI SOCIETY ASU**
+  Leading the AI MakerSpace initiatives, managing cross-functional teams to deploy ML resources and educational workshops.
+* **TECHNICAL OFFICER | DEVLABS**
+  Overseeing technical strategy and delivery for high-impact software and data projects.
+* **HACKATHON SUCCESS**
+  Winner of DevHacks S2 (1/175 teams), People’s Choice at Hackazona, and Runner-up at GI Bots.
 
-### DISTINCTIONS
+<br />
 
-* **Winner (1/175)** — DevHacks S2
-* **People’s Choice** — Hackazona v0.1
-* **Runner-up** — GI Bots Hackathon
+<p align="center">
+  <a href="https://lvishal.com/">PORTFOLIO</a> &nbsp;&nbsp; • &nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/vishal-lakshmi-narayanan-687619324/">LINKEDIN</a> &nbsp;&nbsp; • &nbsp;&nbsp; 
+  <a href="mailto:your-email@asu.edu">CONTACT</a>
+</p>
