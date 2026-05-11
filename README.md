@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <!-- Terminal Effect -->
+  <!-- Terminal Typing Effect -->
   <a href="https://github.com/VishalLakshmiNarayanan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello,+this+is+Vishal;A+Data+Scientist+%26+Research+Engineer;Building+the+future+at+AIS+ASU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+this+is+Vishal;Building+production+AI+%26+data+frameworks" alt="Typing SVG" />
   </a>
 </p>
 
